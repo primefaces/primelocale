@@ -3,7 +3,7 @@
 The Locale API allows setting i18n and l7n options globally for the components. You can import json files in this repo and use them in the locale API in the Prime UI libraries.
 
 - [PrimeReact](https://primefaces.org/primereact/showcase/#/locale)
-- [PrimeNG](https://primefaces.org/primeng/showcase/#/locale)
+- [PrimeNG](https://primefaces.org/primeng/showcase/#/i18n)
 - [PrimeVue](https://primefaces.org/primevue/showcase/#/locale)
 
 Prime UI libraries only provide English translations by default, if you'd like to share translations, please contribute to this repo.
@@ -17,11 +17,11 @@ Prime UI libraries only provide English translations by default, if you'd like t
 | choose | Choose
 | upload | Upload
 | cancel | Cancel
-| dayNames | ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
-| dayNamesShort | ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
-| dayNamesMin | ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa']
-| monthNames | ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
-| monthNamesShort | ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+| dayNames | ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+| dayNamesShort | ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+| dayNamesMin | ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"]
+| monthNames | ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+| monthNamesShort | ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 | today | Today
 | clear | Clear
 | weekHeader | Wk
