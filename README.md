@@ -3,7 +3,7 @@
 The Locale API allows setting i18n and l7n options globally for the components. You can import json files in this repo and use them in the locale API in the Prime UI libraries.
 
 - [PrimeReact](https://primefaces.org/primereact/showcase/#/locale)
-- [PrimeNG](https://primefaces.org/primeng/showcase/#/locale)
+- [PrimeNG](https://primefaces.org/primeng/showcase/#/i18n)
 - [PrimeVue](https://primefaces.org/primevue/showcase/#/locale)
 
 Prime UI libraries only provide English translations by default, if you'd like to share translations, please contribute to this repo.
