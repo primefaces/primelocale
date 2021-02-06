@@ -1,0 +1,23 @@
+{
+  "lv": {
+    "accept": "Jā",
+    "reject": "Nē",
+    "choose": "Izvēle",
+    "upload": "Ielādēt",
+    "cancel": "Atcelt",
+    "dayNames": ["Svētdiena", "Pirmdiena", "Otrdiena", "Trešdiena", "Ceturtdiena", "Piektdiena", "Sestdiena"],
+    "dayNamesShort": ["Sve", "Pir", "Otr", "Tre", "Cet", "Pie", "Ses"],
+    "dayNamesMin": ["Sv", "Pi", "Ot", "Tr", "Ce", "Pk", "Se"],
+    "monthNames": ["Janvāris", "Februāris", "Marts", "Aprīlis", "Maijs", "Jūnijs", "Jūlijs", "Augusts", "Septembris", "Oktobris", "Novembris", "Decembris"],
+    "monthNamesShort": ["Jan", "Feb", "Mar", "Apr", "Mai", "Jūn", "Jūl", "Aug", "Sep", "Okt", "Nov", "Dec"],
+    "today": "Šodien",
+    "clear": "Notīrīt",
+    "weekHeader": "Ned",
+    "firstDayOfWeek": 1,
+    "dateFormat": "dd.mm.yy",
+    "weak": "Vāja",
+    "medium": "Vidēja",
+    "strong": "Stipra",
+    "passwordPrompt": "Ievadiet paroli"
+  }
+}
