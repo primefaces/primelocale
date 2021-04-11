@@ -1,0 +1,23 @@
+{
+  "pt": {
+      "accept": "Sim",
+      "reject": "Não",
+      "choose": "Escolha",
+      "upload": "Upload",
+      "cancel": "Cancelar",
+      "dayNames": ["domingo", "segunda", "terça", "quarta", "quinta", "sexta", "sábado"],
+      "dayNamesShort": ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"],
+      "dayNamesMin": ["D", "S", "T", "Q", "Q", "S", "S"],
+      "monthNames": ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"],
+      "monthNamesShort": ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"],
+      "today": "Hoje",
+      "clear": "Limpar",
+      "weekHeader": "Sem",
+      "firstDayOfWeek": 0,
+      "dateFormat": "dd/mm/yy",
+      "weak": "Fraco",
+      "medium": "Médio",
+      "strong": "Forte",
+      "passwordPrompt": "Digite uma senha"
+  }
+}
