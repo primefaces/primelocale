@@ -1,0 +1,23 @@
+{
+    "ro": {
+        "accept": "Da",
+        "reject": "Nu",
+        "choose": "Alege",
+        "upload": "Încarcă",
+        "cancel": "Anulează",
+        "dayNames": ["Duminică", "Luni", "Marți", "Miercuri", "Joi", "Vineri", "Sâmbătă"],
+        "dayNamesShort": ["Dum", "Lun", "Mar", "Mie", "Joi", "Vin", "Sâm"],
+        "dayNamesMin": ["Du", "Lu", "Ma", "Mi", "Jo", "Vi", "Sâ"],
+        "monthNames": ["Ianuarie", "Februarie", "Martie", "Aprilie", "Mai", "Iunie", "Iulie", "August", "Septembrie", "Octombrie", "Noiembrie", "Decembrie"],
+        "monthNamesShort": ["Ian", "Feb", "Mar", "Apr", "Mai", "Iun", "Iul", "Aug", "Sep", "Oct", "Noi", "Dec"],
+        "today": "Astăzi",
+        "clear": "Curăță",
+        "weekHeader": "Săpt",
+        "firstDayOfWeek": 1,
+        "dateFormat": "dd.mm.yy",
+        "weak": "Slabă",
+        "medium": "Medie",
+        "strong": "Puternică",
+        "passwordPrompt": "Introduceți parola"
+    }
+}
