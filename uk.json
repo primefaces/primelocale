@@ -14,7 +14,7 @@
         "clear": "Очистити",
         "weekHeader": "Тиж.",
         "firstDayOfWeek": 1,
-        "dateFormat": "dd.mm.yyyy",
+        "dateFormat": "dd.mm.yy",
         "weak": "Простий",
         "medium": "Нормальний",
         "strong": "Гарний",
