@@ -46,7 +46,7 @@ Prime UI libraries only provide English translations by default, if you'd like t
 | monthNamesShort | ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 | today | Today
 | weekHeader | Wk
-| firstDayOfWeek":0,
+| firstDayOfWeek | 0
 | dateFormat | mm/dd/yy
 | weak | Weak
 | medium | Medium
