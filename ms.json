@@ -1,0 +1,23 @@
+{
+    "ms": {
+        "accept": "YA",
+        "reject": "TIDAK",
+        "choose": "Plih",
+        "upload": "Muat Naik",
+        "cancel": "Batal",
+        "dayNames": ["Ahad", "Isnin", "Selasa", "Rabu", "Khamis", "Jumaat", "Sabtu"],
+        "dayNamesShort": ["Ahd", "Isn", "Sel", "Rab", "Kha", "Jum", "Sab"],
+        "dayNamesMin": ["Ah", "Is", "Se", "Ra", "Kh", "Ju", "Sa"],
+        "monthNames": ["Januari", "Febuari", "Mac", "April", "Mei", "Jun", "Julai", "Ogos", "September", "Oktober", "November", "Disember"],
+        "monthNamesShort": ["Jan", "Feb", "Mac", "Apr", "Mei", "Jun", "Jul", "Ogo", "Sep", "Oct", "Nov", "Dis"],
+        "today": "Hari ini",
+        "clear": "Padam",
+        "weekHeader": "Minggu",
+        "firstDayOfWeek": 1,
+        "dateFormat": "dd/mm/yy",
+        "weak": "Lemah",
+        "medium": "Sederhana",
+        "strong": "Kuat",
+        "passwordPrompt": "Masukkan Kata Laluan"
+    }
+}
