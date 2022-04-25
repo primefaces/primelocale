@@ -54,3 +54,6 @@ Prime UI libraries only provide English translations by default, if you'd like t
 | passwordPrompt | Enter a password
 | emptyFilterMessage | No available options
 | emptyMessage |  No results found
+| aria.trueLabel |  True
+| aria.falseLabel |  False
+| aria.nullLabel |  Not Selected
