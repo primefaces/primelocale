@@ -41,6 +41,11 @@
       "strong":"Strong",
       "passwordPrompt":"Enter a password",
       "emptyFilterMessage":"No available options",
-      "emptyMessage":"No results found"
+      "emptyMessage":"No results found",
+      "aria": {
+            "trueLabel": "True",
+            "falseLabel": "False",
+            "nullLabel": "Not Selected"
+      }
    }
 }
