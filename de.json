@@ -41,6 +41,16 @@
         "strong": "Stark",
         "passwordPrompt": "Passwort eingeben",
         "emptyFilterMessage":"Keine Einträge gefunden",
-        "emptyMessage": "Keine Einträge gefunden"
+        "emptyMessage": "Keine Einträge gefunden",
+        "aria": {
+            "trueLabel": "Richtig",
+            "falseLabel": "Falsch",
+            "nullLabel": "Nicht selektiert",
+            "pageLabel": "Seite",
+            "firstPageLabel": "Erste Seite",
+            "lastPageLabel": "Letzte Seite",
+            "nextPageLabel": "Nächste Seite",
+            "previousPageLabel": "Vorherige Seite"
+        }
     }
 }
