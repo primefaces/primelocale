@@ -29,7 +29,7 @@
         "dayNames": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
         "dayNamesShort": ["Son", "Mon", "Die", "Mit", "Don", "Fre", "Sam"],
         "dayNamesMin": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
-        "monthNames": ["Januar", "Frebruar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+        "monthNames": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
         "monthNamesShort": ["Jan", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dez"],
         "today": "Heute",
         "clear": "Löschen",
@@ -41,6 +41,16 @@
         "strong": "Stark",
         "passwordPrompt": "Passwort eingeben",
         "emptyFilterMessage":"Keine Einträge gefunden",
-        "emptyMessage": "Keine Einträge gefunden"
+        "emptyMessage": "Keine Einträge gefunden",
+        "aria": {
+            "trueLabel": "Richtig",
+            "falseLabel": "Falsch",
+            "nullLabel": "Nicht selektiert",
+            "pageLabel": "Seite",
+            "firstPageLabel": "Erste Seite",
+            "lastPageLabel": "Letzte Seite",
+            "nextPageLabel": "Nächste Seite",
+            "previousPageLabel": "Vorherige Seite"
+        }
     }
 }
