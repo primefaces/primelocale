@@ -41,6 +41,16 @@
       "strong": "Хороший",
       "passwordPrompt": "Введите пароль"
       "emptyFilterMessage":"Результатов не найдено",
-      "emptyMessage":"Нет доступных вариантов"
+      "emptyMessage":"Нет доступных вариантов",
+      "aria": {
+            "trueLabel": "Верно",
+            "falseLabel": "Неверно",
+            "nullLabel": "Не выбран",
+            "pageLabel": "Страница",
+            "firstPageLabel": "Первая страница",
+            "lastPageLabel": "Последняя страница",
+            "nextPageLabel": "Следующая страница",
+            "previousPageLabel": "Предыдущая страница"
+      }
    }
 }
