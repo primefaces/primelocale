@@ -41,7 +41,17 @@
       "strong": "Гарний",
       "passwordPrompt": "Введіть пароль"
       "emptyFilterMessage":"Результатів не знайдено",
-      "emptyMessage":"Немає доступних варіантів"
+      "emptyMessage":"Немає доступних варіантів",
+      "aria": {
+            "trueLabel": "Вірно",
+            "falseLabel": "Невірно",
+            "nullLabel": "Не вибраний",
+            "pageLabel": "Сторінка",
+            "firstPageLabel": "Перша сторінка",
+            "lastPageLabel": "Остання сторінка",
+            "nextPageLabel": "Наступна сторінка",
+            "previousPageLabel": "Попередня сторінка"
+      }
    }
 }
 
