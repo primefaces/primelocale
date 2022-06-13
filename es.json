@@ -36,7 +36,7 @@
       "weekHeader":"Sem",
       "firstDayOfWeek":1,
       "dateFormat":"dd/mm/yyyy",
-      "weak":"Semana",
+      "weak":"Débil",
       "medium":"Medio",
       "strong":"Fuerte",
       "passwordPrompt":"Escriba una contraseña",
