@@ -39,7 +39,7 @@
       "weak": "Fraco",
       "medium": "Médio",
       "strong": "Forte",
-      "passwordPrompt": "Digite uma senha"
+      "passwordPrompt": "Digite uma senha",
       "emptyFilterMessage":"Sem opções disponíveis",
       "emptyMessage":"Sem resultados",
       "aria": {
