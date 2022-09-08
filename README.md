@@ -58,3 +58,9 @@ Prime UI libraries only provide English translations by default, if you'd like t
 | aria.trueLabel |  True
 | aria.falseLabel |  False
 | aria.nullLabel |  Not Selected
+| aria.pageLabel |  Page
+| aria.firstPageLabel |  First Page
+| aria.lastPageLabel |  Last Page
+| aria.nextPageLabel |  Next Page
+| aria.selectLabel |  Select
+| aria.unselectLabel |  Unselect
