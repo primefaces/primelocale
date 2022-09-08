@@ -19,6 +19,7 @@ Prime UI libraries only provide English translations by default, if you'd like t
 | equals | Equals
 | notEquals | Not equals
 | noFilter | No Filter
+| filter | Filter
 | lt | Less than
 | lte | Less than or equal to
 | gt | Greater than
