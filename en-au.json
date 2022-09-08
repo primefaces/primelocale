@@ -51,7 +51,9 @@
             "firstPageLabel": "First Page",
             "lastPageLabel": "Last Page",
             "nextPageLabel": "Next Page",
-            "previousPageLabel": "Previous Page"
+            "previousPageLabel": "Previous Page",
+            "selectLabel": "Select",
+            "unselectLabel": "Unselect"
       }
    }
 }
