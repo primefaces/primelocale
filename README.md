@@ -40,6 +40,7 @@ Prime UI libraries only provide English translations by default, if you'd like t
 | choose | Choose
 | upload | Upload
 | cancel | Cancel
+| close | Close
 | dayNames | ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 | dayNamesShort | ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
 | dayNamesMin | ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"]
