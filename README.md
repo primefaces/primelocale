@@ -40,7 +40,6 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | choose | Choose
 | upload | Upload
 | cancel | Cancel
-| close | Close // only available for PrimeReact
 | completed | Completed
 | pending | Pending
 | dayNames | ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
