@@ -19,6 +19,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | equals | Equals
 | notEquals | Not equals
 | noFilter | No Filter
+| filter | Filter // only available for PrimeReact
 | lt | Less than
 | lte | Less than or equal to
 | gt | Greater than
@@ -27,6 +28,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | dateIsNot | Date is not
 | dateBefore | Date is before
 | dateAfter | Date is after
+| custom | Custom  // only available for PrimeReact
 | clear | Clear
 | apply | Apply
 | matchAll | Match All
@@ -38,6 +40,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | choose | Choose
 | upload | Upload
 | cancel | Cancel
+| close | Close // only available for PrimeReact
 | completed | Completed
 | pending | Pending
 | dayNames | ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
