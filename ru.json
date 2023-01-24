@@ -39,7 +39,7 @@
       "weak": "Простой",
       "medium": "Нормальный",
       "strong": "Хороший",
-      "passwordPrompt": "Введите пароль"
+      "passwordPrompt": "Введите пароль",
       "emptyFilterMessage":"Результатов не найдено",
       "emptyMessage":"Нет доступных вариантов",
       "aria": {
