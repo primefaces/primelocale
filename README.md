@@ -102,9 +102,8 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | aria.firstPageLabel | First Page
 | aria.lastPageLabel | Last Page
 | aria.nextPageLabel | Next Page
-| aria.prevPageLabel | Previous Page
-| aria.rowsPerPageLabel | Rows per page
 | aria.previousPageLabel | Previous Page
+| aria.rowsPerPageLabel | Rows per page
 | aria.jumpToPageDropdownLabel | Jump to Page Dropdown
 | aria.jumpToPageInputLabel | Jump to Page Input
 | aria.selectRow | Row Selected
