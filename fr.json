@@ -7,7 +7,7 @@
       "equals": "Egal à",
       "notEquals": "Différent de",
       "noFilter": "Aucun filtre",
-      "filter": "Filtrer",  // only available for PrimeReact
+      "filter": "Filtre",  // only available for PrimeReact
       "lt": "Inférieur à",
       "lte": "Inférieur ou égal à",
       "gt": "Supérieur à",
@@ -92,7 +92,6 @@
          "firstPageLabel": "Première Page",
          "lastPageLabel": "Dernière Page",
          "nextPageLabel": "Page Suivante",
-         "prevPageLabel": "Page Précédente",
          "rowsPerPageLabel": "Rows per page",
          "previousPageLabel": "Page précédente",
          "jumpToPageDropdownLabel": "Aller à la page",
