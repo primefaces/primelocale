@@ -87,7 +87,7 @@
         "moveToSource": "Переместить в источник",
         "moveAllToTarget": "Переместить всё в приёмник",
         "moveAllToSource": "Переместить всё в источник",
-        "pageLabel": "Страница",
+        "pageLabel": "{page}",
         "firstPageLabel": "Первая страница",
         "lastPageLabel": "Последняя страница",
         "nextPageLabel": "Следующая страница",
