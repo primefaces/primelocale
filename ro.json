@@ -39,7 +39,7 @@
         "weak":"Slabă",
         "medium":"Medie",
         "strong":"Puternică",
-        "passwordPrompt":"Introduceți parola"
+        "passwordPrompt":"Introduceți parola",
         "emptyFilterMessage":"Nu s-au găsite rezultate",
         "emptyMessage":"Nu există opțiuni disponibile"
     }
