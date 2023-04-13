@@ -45,12 +45,9 @@
         "medium": "متوسط",
         "strong": "قوی",
         "passwordPrompt": "یک گذرواژه وارد کنید",
-
         "startsWith": "شروع با",
         "contains": "حاوی",
-
         "notContains": "Not contains",
-
         "endsWith": "پایان با",
         "equals": "برابر",
         "notEquals": "نا برابر",
