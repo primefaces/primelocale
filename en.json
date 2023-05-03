@@ -7,7 +7,7 @@
       "equals": "Equals",
       "notEquals": "Not equals",
       "noFilter": "No Filter",
-      "filter": "Filter",  // only available for PrimeReact
+      "filter": "Filter",
       "lt": "Less than",
       "lte": "Less than or equal to",
       "gt": "Greater than",
@@ -16,7 +16,7 @@
       "dateIsNot": "Date is not",
       "dateBefore": "Date is before",
       "dateAfter": "Date is after",
-      "custom": "Custom",  // only available for PrimeReact
+      "custom": "Custom",
       "clear": "Clear",
       "apply": "Apply",
       "matchAll": "Match All",
@@ -60,7 +60,7 @@
       "medium": "Medium",
       "strong": "Strong",
       "passwordPrompt": "Enter a password",
-      "emptyFilterMessage": "No results found", // @deprecated Use "emptySearchMessage" option instead.
+      "emptyFilterMessage": "No results found",
       "searchMessage": "{0} results are available",
       "selectionMessage": "{0} items selected",
       "emptySelectionMessage": "No selected item",
