@@ -85,7 +85,7 @@
         "today": "Hoy",
         "weekHeader": "Sem",
         "firstDayOfWeek": 1,
-        "dateFormat": "dd/mm/yyyy",
+        "dateFormat": "dd/mm/yy",
         "weak": "Débil",
         "medium": "Medio",
         "strong": "Fuerte",
