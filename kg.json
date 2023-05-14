@@ -111,8 +111,8 @@
          "slide": "Слайд",
          "slideNumber": "{slideNumber}",
          "zoomImage": "Сүрөттү чоңойтуу",
-         "zoomIn": "Чоңойтуу",
-         "zoomOut": "Кичирейтүү",
+         "zoomIn": "Жакындатуу",
+         "zoomOut": "Алыстатуу",
          "rotateRight": "Оңго буруу",
          "rotateLeft": "Солго буруу"
        }
