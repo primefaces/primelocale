@@ -52,7 +52,7 @@
         "equals": "برابر",
         "notEquals": "نا برابر",
         "noFilter": "بدون فیلتر",
-        "filter": "فیلتر", // only available for PrimeReact
+        "filter": "فیلتر",
         "lt": "کمتر از",
         "lte": "برابر یا کمتر از",
         "gt": "بیشتر از",
@@ -61,7 +61,7 @@
         "dateIsNot": "Date is not",
         "dateBefore": "Date is before",
         "dateAfter": "Date is after",
-        "custom": "سفارشی", // only available for PrimeReact
+        "custom": "سفارشی",
         "apply": "Apply",
         "matchAll": "مطابقت با همه",
         "matchAny": "مطابقت با هر",
@@ -86,7 +86,7 @@
         "nextSecond": "ثانیه بعد",
         "am": "قبل از ظهر",
         "pm": "بعد از ظهر",
-        "emptyFilterMessage": "نتیجه ای پیدا نشد", // @deprecated Use "emptySearchMessage" option instead.
+        "emptyFilterMessage": "نتیجه ای پیدا نشد",
         "searchMessage": "{0} نتیجه در دسترس است",
         "selectionMessage": "{0} موارد انتخاب شده",
         "emptySelectionMessage": "موردی انتخاب نشده",

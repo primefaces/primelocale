@@ -7,7 +7,7 @@
       "equals": "Er lik",
       "notEquals": "Er ikke lik",
       "noFilter": "Ikke filtrert",
-      "filter": "Filter",  // only available for PrimeReact
+      "filter": "Filter",
       "lt": "Mindre enn",
       "lte": "Mindre enn eller lik",
       "gt": "Større enn",
@@ -16,7 +16,7 @@
       "dateIsNot": "Dato er ikke",
       "dateBefore": "Dato er før",
       "dateAfter": "Dato er etter",
-      "custom": "Egendefinert",  // only available for PrimeReact
+      "custom": "Egendefinert",
       "clear": "Tøm",
       "apply": "Bruk",
       "matchAll": "Matcher alle",
@@ -60,7 +60,7 @@
       "medium": "Middels",
       "strong": "Sterkt",
       "passwordPrompt": "Skriv et passord",
-      "emptyFilterMessage": "Ingen resultater funnet", // @deprecated Use "emptySearchMessage" option instead.
+      "emptyFilterMessage": "Ingen resultater funnet",
       "searchMessage": "{0} resultater er tilgjengelige",
       "selectionMessage": "{0} oppføringer valgt",
       "emptySelectionMessage": "Ingen valgte oppføringer",
