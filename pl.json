@@ -58,7 +58,7 @@
         "medium": "Średni",
         "strong": "Silny",
         "passwordPrompt": "Wprowadź hasło",
-        "emptyFilterMessage": "Brak wyników wyszukiwania", // @deprecated Use "emptySearchMessage" option instead.
+        "emptyFilterMessage": "Brak wyników wyszukiwania",
         "searchMessage": "Dostępnych jest {0} wyników",
         "selectionMessage": "Wybrano {0} elementów",
         "emptySelectionMessage": "Brak wybranego elementu",

@@ -7,7 +7,7 @@
       "equals": "Sama",
       "notEquals": "Tidak sama",
       "noFilter": "Tanpa Filter",
-      "filter": "Filter",  // only available for PrimeReact
+      "filter": "Filter",
       "lt": "Kurang dari",
       "lte": "Kurang dari atau sama dengan",
       "gt": "Lebih dari",
@@ -16,7 +16,7 @@
       "dateIsNot": "Tanggalnya tidak",
       "dateBefore": "Tanggalnya sebelum",
       "dateAfter": "Tanggalnya sesudah",
-      "custom": "Custom",  // only available for PrimeReact
+      "custom": "Custom",
       "clear": "Bersih",
       "apply": "Terapkan",
       "matchAll": "Cocok dengan semua",
@@ -60,7 +60,7 @@
       "medium": "Sedang",
       "strong": "Kuat",
       "passwordPrompt": "Masukkan Kata Sandi",
-      "emptyFilterMessage": "Hasil pencarian tidak ditemukan", // @deprecated Use "emptySearchMessage" option instead.
+      "emptyFilterMessage": "Hasil pencarian tidak ditemukan",
       "searchMessage": "{0} hasil tersedia",
       "selectionMessage": "{0} item dipilih",
       "emptySelectionMessage": "Tidak ada item dipilih",
