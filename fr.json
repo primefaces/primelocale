@@ -7,7 +7,7 @@
       "equals": "Égal à",
       "notEquals": "Différent de",
       "noFilter": "Aucun filtre",
-      "filter": "Filtre",  // only available for PrimeReact
+      "filter": "Filtre",
       "lt": "Inférieur à",
       "lte": "Inférieur ou égal à",
       "gt": "Supérieur à",
@@ -50,8 +50,8 @@
       "nextMinute": "Minute suivante",
       "prevSecond": "Seconde précédente",
       "nextSecond": "Seconde suivante",
-      "am": "am",  // Abbreviation culturally accepted for french people. Real french translation is "du matin", but never used in web forms.
-      "pm": "pm",  // Abbreviation culturally accepted for french people. Real french translation is "de l'après-midi", but never used in web forms.
+      "am": "am",
+      "pm": "pm",
       "today": "Aujourd'hui",
       "weekHeader": "Sem",
       "firstDayOfWeek": 1,
