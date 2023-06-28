@@ -125,4 +125,4 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | aria.zoomIn | Zoom In
 | aria.zoomOut | Zoom Out
 | aria.rotateRight | Rotate Right
-| aria.rotateLeft | Rotate Left"
+| aria.rotateLeft | Rotate Left
