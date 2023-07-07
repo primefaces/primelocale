@@ -55,6 +55,7 @@
       "today": "I dag",
       "weekHeader": "Uke",
       "firstDayOfWeek": 1,
+      "showMonthAfterYear": false,
       "dateFormat": "dd.mm.yy",
       "weak": "Svakt",
       "medium": "Middels",

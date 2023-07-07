@@ -55,6 +55,7 @@
     "today": "今日",
     "weekHeader": "週",
     "firstDayOfWeek": 0,
+    "showMonthAfterYear": true,
     "dateFormat": "yy/mm/dd",
     "weak": "弱い",
     "medium": "普通",

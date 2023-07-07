@@ -55,6 +55,7 @@
     "today": "Šodien",
     "weekHeader": "Ned",
     "firstDayOfWeek": 1,
+    "showMonthAfterYear": false,
     "dateFormat": "dd.mm.yy",
     "weak": "Vāja",
     "medium": "Vidēja",

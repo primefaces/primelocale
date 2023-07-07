@@ -55,6 +55,7 @@
       "today": "Today",
       "weekHeader": "Wk",
       "firstDayOfWeek": 1,
+      "showMonthAfterYear": false,
       "dateFormat": "yy/mm/dd",
       "weak": "Weak",
       "medium": "Medium",

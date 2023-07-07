@@ -55,6 +55,7 @@
       "today": "Ma",
       "weekHeader": "Hét",
       "firstDayOfWeek": 1,
+      "showMonthAfterYear": true,
       "dateFormat": "yy.mm.dd",
       "weak": "Gyenge",
       "medium": "Közepes",

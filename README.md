@@ -67,6 +67,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | today | Today
 | weekHeader | Wk
 | firstDayOfWeek | 0
+| showMonthAfterYear | false
 | dateFormat | mm/dd/yy
 | weak | Weak
 | medium | Medium

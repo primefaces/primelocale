@@ -37,6 +37,7 @@
       "today":"Idag",
       "weekHeader":"v",
       "firstDayOfWeek":1,
+      "showMonthAfterYear": false,
       "dateFormat":"yy-mm-dd",
       "weak":"Svagt",
       "medium":"Mellan",

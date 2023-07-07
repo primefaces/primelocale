@@ -105,6 +105,7 @@
         "today": "Oggi",
         "weekHeader": "Sett",
         "firstDayOfWeek": 1,
+        "showMonthAfterYear": false,
         "dateFormat": "dd/mm/yy",
         "weak": "Debole",
         "medium": "Medio",

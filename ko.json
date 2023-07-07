@@ -14,6 +14,7 @@
         "clear": "초기화",
         "weekHeader": "Wk",
         "firstDayOfWeek": 0,
+        "showMonthAfterYear": false,
         "dateFormat": "mm/dd/yy",
         "weak": "약함",
         "medium": "보통",

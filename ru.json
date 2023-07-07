@@ -55,6 +55,7 @@
       "today": "Сегодня",
       "weekHeader": "Нед.",
       "firstDayOfWeek": 1,
+      "showMonthAfterYear": false,
       "dateFormat": "dd.mm.yyyy",
       "weak": "Простой",
       "medium": "Нормальный",
