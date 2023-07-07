@@ -85,6 +85,7 @@
         "today": "Avui",
         "weekHeader": "Setm",
         "firstDayOfWeek": 1,
+        "showMonthAfterYear": false,
         "dateFormat": "dd/mm/yy",
         "weak": "Débil",
         "medium": "Mig",

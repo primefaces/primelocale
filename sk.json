@@ -89,6 +89,7 @@
     "today": "Dnes",
     "weekHeader": "Týž.",
     "firstDayOfWeek": 1,
+    "showMonthAfterYear": false,
     "dateFormat": "dd.mm.rrrr",
     "weak": "Slabé",
     "medium": "Stredné",

@@ -40,6 +40,7 @@
         "clear": "پاک کردن",
         "weekHeader": "هفته",
         "firstDayOfWeek": 6,
+        "showMonthAfterYear": false,
         "dateFormat": "yyyy/mm/dd",
         "weak": "هفته",
         "medium": "متوسط",

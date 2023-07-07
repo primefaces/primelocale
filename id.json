@@ -55,6 +55,7 @@
       "today": "Hari ini",
       "weekHeader": "Wk",
       "firstDayOfWeek": 1,
+      "showMonthAfterYear": false,
       "dateFormat": "dd/mm/yy",
       "weak": "Lemah",
       "medium": "Sedang",

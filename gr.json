@@ -69,6 +69,7 @@
     "today": "Σήμερα",
     "weekHeader": "Wk",
     "firstDayOfWeek": 0,
+    "showMonthAfterYear": false,
     "dateFormat": "dd/mm/yyyy",
     "weak": "Αδύναμος",
     "medium": "Μεσαίος",

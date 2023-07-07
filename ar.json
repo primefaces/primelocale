@@ -81,6 +81,7 @@
       "today": "اليوم",
       "weekHeader": "الأسبوع",
       "firstDayOfWeek": 0,
+      "showMonthAfterYear": false,
       "dateFormat": "شهر/يوم/سنة",
       "weak": "ضعيف",
       "medium": "متوسط",

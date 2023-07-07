@@ -55,6 +55,7 @@
       "today": "Aujourd'hui",
       "weekHeader": "Sem",
       "firstDayOfWeek": 1,
+      "showMonthAfterYear": false,
       "dateFormat": "dd/mm/yy",
       "weak": "Faible",
       "medium": "Moyen",

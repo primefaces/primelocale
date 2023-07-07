@@ -55,6 +55,7 @@
        "today": "Бүгүн",
        "weekHeader": "Апта",
        "firstDayOfWeek": 1,
+        "showMonthAfterYear": false,
        "dateFormat": "dd.mm.yyyy",
        "weak": "Алсыз",
        "medium": "Орто",

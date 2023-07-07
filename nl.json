@@ -35,6 +35,7 @@
       "today":"Vandaag",
       "weekHeader":"Wk",
       "firstDayOfWeek":0,
+      "showMonthAfterYear": false,
       "dateFormat":"dd-mm-yy",
       "weak":"Zwak",
       "medium":"Middel",

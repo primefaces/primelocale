@@ -35,6 +35,7 @@
         "today":"Astăzi",
         "weekHeader":"Săpt",
         "firstDayOfWeek":1,
+        "showMonthAfterYear": false,
         "dateFormat":"dd.mm.yy",
         "weak":"Slabă",
         "medium":"Medie",

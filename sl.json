@@ -55,6 +55,7 @@
       "today": "Danes",
       "weekHeader": "Wk",
       "firstDayOfWeek": 0,
+      "showMonthAfterYear": false,
       "dateFormat": "dd.mm.yyyy",
       "weak": "Teden",
       "medium": "Medium",
