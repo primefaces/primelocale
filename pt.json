@@ -89,7 +89,7 @@
           "moveToSource": "Mover para Fonte",
           "moveAllToTarget": "Mover Todos para Alvo",
           "moveAllToSource": "Mover Todos para Fonte",
-          "pageLabel": "{page}",
+          "pageLabel": "Página {page}",
           "firstPageLabel": "Primeira Página",
           "lastPageLabel": "Última Página",
           "nextPageLabel": "Página Seguinte",

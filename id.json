@@ -88,7 +88,7 @@
          "moveToSource": "Pindah ke Sumber",
          "moveAllToTarget": "Pindah Semua ke Target",
          "moveAllToSource": "Pindah Semua ke Sumber",
-         "pageLabel": "{halaman}",
+         "pageLabel": "Halaman {page}",
          "firstPageLabel": "Halaman Pertama",
          "lastPageLabel": "Halaman Terakhir",
          "nextPageLabel": "Halaman Selanjutnya",

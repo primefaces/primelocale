@@ -88,7 +88,7 @@
          "moveToSource": "بۆ ئامانجەی سەرچاوەکراو",
          "moveAllToTarget": "بۆ هەموو ئامانجەکانی دیاریکراو",
          "moveAllToSource": "بۆ هەموو ئامانجەکانی سەرچاوەکراو",
-         "pageLabel": "{پەڕە}",
+         "pageLabel": "پەڕە {page}",
          "firstPageLabel": "یەکەم پەڕە",
          "lastPageLabel": "دوایین پەڕە",
          "nextPageLabel": "پەڕەی دواتر",

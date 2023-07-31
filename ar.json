@@ -114,7 +114,7 @@
          "moveToSource": "نقل الى المصدر",
          "moveAllToTarget": "نقل الجميع الى الهدف",
          "moveAllToSource": "نقل الجميع الى المصدر",
-         "pageLabel": "صفحة",
+         "pageLabel": "صفحة {page}",
          "firstPageLabel": "الصفحة الاولى",
          "lastPageLabel": "الصفحة الاخيرة",
          "nextPageLabel": "الصفحة التالية",

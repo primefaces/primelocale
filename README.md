@@ -99,7 +99,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | aria.moveToSource | Move to Source
 | aria.moveAllToTarget | Move All to Target
 | aria.moveAllToSource | Move All to Source
-| aria.pageLabel | {page}
+| aria.pageLabel | Page {page}
 | aria.firstPageLabel | First Page
 | aria.lastPageLabel | Last Page
 | aria.nextPageLabel | Next Page
@@ -115,7 +115,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | aria.hideFilterMenu | Hide Filter Menu
 | aria.filterOperator | Filter Operator
 | aria.filterConstraint | Filter Constraint
-| aria.editRow | Row Edit
+| aria.editRow | Edit Row
 | aria.saveEdit | Save Edit
 | aria.cancelEdit | Cancel Edit
 | aria.listView | List View

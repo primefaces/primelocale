@@ -88,7 +88,7 @@
             "moveToSource": "Zur Quelle bewegen",
             "moveAllToTarget": "Alle zum Ziel bewegen",
             "moveAllToSource": "Alle zur Quelle bewegen",
-            "pageLabel": "{page}",
+            "pageLabel": "Seite {page}",
             "firstPageLabel": "Erste Seite",
             "lastPageLabel": "Letzte Seite",
             "nextPageLabel": "Nächste Seite",
