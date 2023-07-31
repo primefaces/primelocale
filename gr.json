@@ -78,6 +78,9 @@
     "emptyFilterMessage": "Δεν υπάρχουν διαθέσιμες επιλογές",
     "emptyMessage": "Δεν βρέθηκαν αποτελέσματα",
     "aria": {
+      "close": 'Κλείσιμο',
+      "pervious": 'Προηγούμενο',
+      "next": 'Επόμενο',
       "trueLabel": "Αληθής",
       "falseLabel": "Ψευδής",
       "nullLabel": "Κενή ετικέτα",
