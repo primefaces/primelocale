@@ -79,7 +79,7 @@
     "emptyMessage": "Δεν βρέθηκαν αποτελέσματα",
     "aria": {
       "close": "Κλείσιμο",
-      "pervious": "Προηγούμενο",
+      "previous": "Προηγούμενο",
       "next": "Επόμενο",
       "trueLabel": "Αληθής",
       "falseLabel": "Ψευδής",
