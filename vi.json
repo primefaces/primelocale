@@ -12,7 +12,7 @@
         "monthNamesShort": ["Giêng", "Hai", "Ba", "Tư", "Năm", "Sáu", "Bảy", "Tám", "Chín", "Mười", "Mười một", "Mười hai"],
         "today": "Hôm nay",
         "clear": "Làm lại",
-        "weekHeader": "Wk",
+        "weekHeader": "Tuần",
         "firstDayOfWeek": 1,
         "showMonthAfterYear": false,
         "dateFormat": "dd/mm/yy",
