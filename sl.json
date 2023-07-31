@@ -88,7 +88,7 @@
          "moveToSource": "Premik na vir",
          "moveAllToTarget": "Premakni vse na cilj",
          "moveAllToSource": "Premakni vse na vir",
-         "pageLabel": "{stran}",
+         "pageLabel": "Stran {page}",
          "firstPageLabel": "Prva stran",
          "lastPageLabel": "Zadnja stran",
          "nextPageLabel": "Naslednja stran",
