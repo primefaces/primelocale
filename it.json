@@ -121,6 +121,7 @@
             "trueLabel": "Vero",
             "falseLabel": "Falso",
             "nullLabel": "Non selezionato",
+            "pageLabel": "Pagina {page}",
             "firstPageLabel": "Prima pagina",
             "lastPageLabel": "Ultima pagina",
             "nextPageLabel": "Pagina successiva",

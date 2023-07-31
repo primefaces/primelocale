@@ -47,7 +47,7 @@
              "trueLabel": "Doğru",
              "falseLabel": "Yanlış",
              "nullLabel": "Seçilmedi",
-             "pageLabel": "Sayfa",
+             "pageLabel": "Sayfa {page}",
              "firstPageLabel": "İlk Sayfa",
              "lastPageLabel": "Son Sayfa",
              "nextPageLabel": "Sonraki Sayfa",

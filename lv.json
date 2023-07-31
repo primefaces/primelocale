@@ -88,7 +88,7 @@
        "moveToSource": "Pārvietot uz avotu",
        "moveAllToTarget": "Pārvietot visu uz mērķi",
        "moveAllToSource": "Pārvietot visu uz avotu",
-       "pageLabel": "{page}",
+       "pageLabel": "Lapa {page}",
        "firstPageLabel": "Pirmā lapa",
        "lastPageLabel": "Pēdējā lapa",
        "nextPageLabel": "Nākamā lapa",

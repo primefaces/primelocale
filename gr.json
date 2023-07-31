@@ -81,7 +81,7 @@
       "trueLabel": "Αληθής",
       "falseLabel": "Ψευδής",
       "nullLabel": "Κενή ετικέτα",
-      "pageLabel": "Σελίδα",
+      "pageLabel": "Σελίδα {page}",
       "firstPageLabel": "Πρώτη Σελίδα",
       "lastPageLabel": "Τελευταία Σελίδα",
       "nextPageLabel": "Επόμενη Σελίδα",

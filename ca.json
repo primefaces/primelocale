@@ -114,7 +114,7 @@
             "moveToSource": "Moure a la font",
             "moveAllToTarget": "Moure tot a l'objectiu",
             "moveAllToSource": "Moure tot a la font",
-            "pageLabel": "{page}",
+            "pageLabel": "Pàgina {page}",
             "firstPageLabel": "Primera pàgina",
             "lastPageLabel": "Última pàgina",
             "nextPageLabel": "Pàgina següent",

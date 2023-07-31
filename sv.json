@@ -49,7 +49,7 @@
             "trueLabel": "Sant",
             "falseLabel": "Falskt",
             "nullLabel": "Ej vald",
-            "pageLabel": "Sida",
+            "pageLabel": "Sida {page}",
             "firstPageLabel": "Första sidan",
             "lastPageLabel": "Sista sidan",
             "nextPageLabel": "Nästa sida",
