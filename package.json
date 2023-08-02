@@ -19,9 +19,9 @@
         "primevue",
         "primefaces",
         "i18n",
-        "l7n",
+        "l7n"
     ],
     "files": [
         "**/*.json"
-    ],
+    ]
 }
