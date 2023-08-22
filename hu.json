@@ -88,7 +88,7 @@
          "moveToSource": "Mozgatás a forráshoz",
          "moveAllToTarget": "Minden mozgatása a célhoz",
          "moveAllToSource": "Minden mozgatása a forráshoz",
-         "pageLabel": "Oldal {page}",
+         "pageLabel": "{page}. oldal",
          "firstPageLabel": "Első oldal",
          "lastPageLabel": "Utolsó oldal",
          "nextPageLabel": "Következő oldal",
