@@ -27,7 +27,7 @@
         "choose": "Escoger",
         "upload": "Subir",
         "cancel": "Cancelar",
-        "filesizeTypes": [
+        "fileSizeTypes": [
             "B",
             "KB",
             "MB",

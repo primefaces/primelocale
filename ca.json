@@ -27,7 +27,7 @@
         "choose": "Escollir",
         "upload": "Pujar",
         "cancel": "Cancel·lar",
-        "filesizeTypes": [
+        "fileSizeTypes": [
             "B",
             "KB",
             "MB",

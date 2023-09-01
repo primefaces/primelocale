@@ -30,7 +30,7 @@
       "cancel": "Annuleer",
       "completed": "Voltooid",
       "pending": "In behandeling",
-      "filesizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
+      "fileSizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
       "dayNames": ["zondag", "maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag"],
       "dayNamesShort": ["zon", "ma", "di", "woe", "do", "vrij", "zat"],
       "dayNamesMin": ["zo", "ma", "di", "wo", "do", "vr", "za"],
