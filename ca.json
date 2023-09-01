@@ -27,6 +27,17 @@
         "choose": "Escollir",
         "upload": "Pujar",
         "cancel": "Cancel·lar",
+        "fileSizeTypes": [
+            "B",
+            "KB",
+            "MB",
+            "GB",
+            "TB",
+            "PB",
+            "EB",
+            "ZB",
+            "YB"
+        ],
         "dayNames": [
             "Diumenge",
             "Dilluns",
