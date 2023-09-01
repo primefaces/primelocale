@@ -116,15 +116,15 @@
             "previous": "Anterior",
             "next": "Siguiente",
             "navigation": "Navegación",
-            "scrollTop": "Desplazarse arriba",
+            "scrollTop": "Desplazarse hacia arriba",
             "moveTop": "Mover arriba",
             "moveUp": "Subir",
             "moveDown": "Bajar",
-            "moveBottom": "Desplazarse abajo",
-            "moveToTarget": "Mover al objectivo",
-            "moveToSource": "Mover al fuente",
+            "moveBottom": "Desplazarse hacia abajo",
+            "moveToTarget": "Mover al objetivo",
+            "moveToSource": "Mover al origen",
             "moveAllToTarget": "Mover todo al objetivo",
-            "moveAllToSource": "Mover todo al fuente",
+            "moveAllToSource": "Mover todo al origen",
             "pageLabel": "Página {page}",
             "firstPageLabel": "Primera Página",
             "lastPageLabel": "Última Página",
@@ -151,8 +151,8 @@
             "zoomImage": "Ampliar imagen",
             "zoomIn": "Ampliar",
             "zoomOut": "Reducir",
-            "rotateRight": "Girar derecha",
-            "rotateLeft": "Girar izquierda"
+            "rotateRight": "Girar a la derecha",
+            "rotateLeft": "Girar a la izquierda"
          }
     }
 }
