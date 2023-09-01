@@ -30,6 +30,7 @@
         "cancel": "Annulla",
         "completed": "Completato",
         "pending": "In corso",
+        "filesizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
         "dayNames": [
             "Domenica",
             "Lunedi",
