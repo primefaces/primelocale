@@ -30,6 +30,7 @@
         "cancel": "Abbrechen",
         "completed": "Abgeschlossen",
         "pending": "Ausstehend",
+        "fileSizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
         "dayNames": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
         "dayNamesShort": ["Son", "Mon", "Die", "Mit", "Don", "Fre", "Sam"],
         "dayNamesMin": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
