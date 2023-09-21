@@ -41,7 +41,7 @@
         "weekHeader": "هفته",
         "firstDayOfWeek": 6,
         "showMonthAfterYear": true,
-        "dateFormat": "yyyy/mm/dd",
+        "dateFormat": "yy/mm/dd",
         "weak": "هفته",
         "medium": "متوسط",
         "strong": "قوی",

@@ -56,7 +56,7 @@
       "weekHeader": "Нед.",
       "firstDayOfWeek": 1,
       "showMonthAfterYear": false,
-      "dateFormat": "dd.mm.yyyy",
+      "dateFormat": "dd.mm.yy",
       "weak": "Простой",
       "medium": "Нормальный",
       "strong": "Хороший",

@@ -70,7 +70,7 @@
     "weekHeader": "Wk",
     "firstDayOfWeek": 0,
     "showMonthAfterYear": false,
-    "dateFormat": "dd/mm/yyyy",
+    "dateFormat": "dd/mm/yy",
     "weak": "Αδύναμος",
     "medium": "Μεσαίος",
     "strong": "Δυνατός",
