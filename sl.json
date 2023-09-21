@@ -56,7 +56,7 @@
       "weekHeader": "Wk",
       "firstDayOfWeek": 0,
       "showMonthAfterYear": false,
-      "dateFormat": "dd.mm.yyyy",
+      "dateFormat": "dd.mm.yy",
       "weak": "Teden",
       "medium": "Medium",
       "strong": "Povdarjen",
