@@ -53,7 +53,7 @@
         "weekHeader": "Vko",
         "firstDayofWeek": 1,
         "showMonthAfterYear": false,
-        "dateFormat": "dd/mm/yy",
+        "dateFormat": "dd.mm.yy",
         "weak": "Heikko",
         "medium": "Keskiverto",
         "strong": "Vahva",
