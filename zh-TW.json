@@ -30,6 +30,7 @@
     "cancel": "取消",
     "completed": "已完成",
     "pending": "待定",
+    "fileSizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
     "dayNames": [
       "星期日", 
       "星期一", 
