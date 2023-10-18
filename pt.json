@@ -55,6 +55,7 @@
     "am": "am",
     "pm": "pm",
     "today": "Hoje",
+    "now": "Agora",
     "weekHeader": "Sem",
     "firstDayOfWeek": 0,
     "showMonthAfterYear": false,
