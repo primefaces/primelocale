@@ -104,6 +104,7 @@
     "am": "上午",
     "pm": "下午",
     "today": "今日",
+    "now": "現在",
     "weekHeader": "周",
     "firstDayOfWeek": 0,
     "showMonthAfterYear": true,
