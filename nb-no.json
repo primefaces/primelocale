@@ -53,6 +53,7 @@
       "am": "am",
       "pm": "pm",
       "today": "I dag",
+      "now": "Nå",
       "weekHeader": "Uke",
       "firstDayOfWeek": 1,
       "showMonthAfterYear": false,
