@@ -104,6 +104,7 @@
         "am": "AM",
         "pm": "PM",
         "today": "Oggi",
+        "now": "Ora attuale",
         "weekHeader": "Sett",
         "firstDayOfWeek": 1,
         "showMonthAfterYear": false,
