@@ -54,7 +54,7 @@
     "am": "בבוקר",
     "pm": "בערב",
     "today": "היום",
-      "now": "עכשיו",
+    "now": "עכשיו",
     "weekHeader": "שבוע",
     "firstDayOfWeek": 0,
     "showMonthAfterYear": false,
