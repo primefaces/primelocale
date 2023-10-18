@@ -51,6 +51,7 @@
         "prevSecond": "Poprzednia sekunda",
         "nextSecond": "Następna sekunda",
         "today": "Dzisiaj",
+        "now": "Teraz",
         "weekHeader": "Tydzień",
         "firstDayOfWeek": 1,
         "showMonthAfterYear": false,
