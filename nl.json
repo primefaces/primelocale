@@ -54,6 +54,7 @@
       "am": "voormiddag",
       "pm": "namiddag",
       "today": "Vandaag",
+      "now": "Nu",
       "weekHeader": "Wk",
       "firstDayOfWeek": 1,
       "showMonthAfterYear": false,
