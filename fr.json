@@ -54,6 +54,7 @@
       "am": "am",
       "pm": "pm",
       "today": "Aujourd'hui",
+      "now": "Maintenant",
       "weekHeader": "Sem",
       "firstDayOfWeek": 1,
       "showMonthAfterYear": false,
