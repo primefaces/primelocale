@@ -54,6 +54,7 @@
        "am": "पूर्वाह्न",
        "pm": "अपराह्न",
        "today": "आज",
+       "now": "अभि",
        "weekHeader": "सप्ताह",
        "firstDayOfWeek": 0,
        "showMonthAfterYear": false,
