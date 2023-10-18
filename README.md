@@ -67,6 +67,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | am | am
 | pm | pm
 | today | Today
+| now | Now
 | weekHeader | Wk
 | firstDayOfWeek | 0
 | showMonthAfterYear | false
