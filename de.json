@@ -53,6 +53,7 @@
         "am": "am",
         "pm": "pm",
         "today": "Heute",
+        "now": "Jetzt",
         "weekHeader": "KW",
         "firstDayOfWeek": 1,
         "showMonthAfterYear": false,
