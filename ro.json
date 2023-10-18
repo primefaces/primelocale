@@ -53,6 +53,7 @@
         "am": "înainte de amiază",
         "pm": "după amiază",
         "today":"Astăzi",
+        "now": "Acum",
         "weekHeader":"Săpt",
         "firstDayOfWeek":1,
         "showMonthAfterYear": false,
