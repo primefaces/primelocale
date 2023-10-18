@@ -53,6 +53,7 @@
       "am": "de.",
       "pm": "du.",
       "today": "Ma",
+      "now": "Most",
       "weekHeader": "Hét",
       "firstDayOfWeek": 1,
       "showMonthAfterYear": true,
