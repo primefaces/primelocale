@@ -94,6 +94,7 @@
             "Des"
         ],
         "today": "Avui",
+        "now": "Ara",
         "weekHeader": "Setm",
         "firstDayOfWeek": 1,
         "showMonthAfterYear": false,
