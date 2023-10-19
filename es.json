@@ -94,6 +94,7 @@
             "Dic"
         ],
         "today": "Hoy",
+        "now": "Ahora",
         "weekHeader": "Sem",
         "firstDayOfWeek": 1,
         "showMonthAfterYear": false,
