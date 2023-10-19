@@ -54,6 +54,7 @@
       "am": "до полудня",
       "pm": "после полудня",
       "today": "Сегодня",
+      "now": "Сейчас",
       "weekHeader": "Нед.",
       "firstDayOfWeek": 1,
       "showMonthAfterYear": false,
