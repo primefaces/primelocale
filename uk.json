@@ -53,6 +53,7 @@
       "am": "до полудня",
       "pm": "після полудня",
       "today": "Сьогодні",
+      "now": "Тепер",
       "weekHeader": "Тиж.",
       "firstDayOfWeek": 1,
       "showMonthAfterYear": false,
