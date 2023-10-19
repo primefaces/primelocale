@@ -50,6 +50,7 @@
         "am": "am",
         "pm": "pm",
         "today": "Tänään",
+        "now": "Nyt",
         "weekHeader": "Vko",
         "firstDayOfWeek": 1,
         "showMonthAfterYear": false,
