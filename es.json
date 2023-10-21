@@ -104,6 +104,7 @@
         "strong": "Fuerte",
         "passwordPrompt": "Escriba una contraseña",
         "emptyFilterMessage": "Sin opciones disponibles",
+        "emptySearchMessage": "Sin opciones disponibles",
         "emptyMessage": "No se han encontrado resultados",
         "aria": {
             "trueLabel": "Verdadero",
