@@ -1,0 +1,27 @@
+{
+    "name": "primelocale",
+    "version": "0.0.1",
+    "private": false,
+    "author": "PrimeTek Informatics",
+    "description": "PrimeLocale provides i18n and l7n options globally for the components in PrimeUI libraries.",
+    "homepage": "https://github.com/primefaces/primelocale",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/primefaces/primelocale.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/primefaces/primelocale/issues"
+    },
+    "keywords": [
+        "primereact",
+        "primeng",
+        "primevue",
+        "primefaces",
+        "i18n",
+        "l7n"
+    ],
+    "files": [
+        "**/*.json"
+    ]
+}

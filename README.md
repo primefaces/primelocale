@@ -5,6 +5,7 @@ The Locale API allows setting i18n and l7n options globally for the components. 
 - [PrimeReact](https://primefaces.org/primereact/locale/)
 - [PrimeNG](https://primefaces.org/primeng/i18n)
 - [PrimeVue](https://primevue.org/configuration/#locale)
+- [PrimeFaces](https://primefaces.github.io/primefaces/14_0_0/#/core/localization?id=client-localization)
 
 Prime UI libraries only provide English translations by default, if you"d like to share translations, please contribute to this repo.
 
@@ -42,6 +43,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | cancel | Cancel
 | completed | Completed
 | pending | Pending
+| fileSizeTypes | ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
 | dayNames | ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 | dayNamesShort | ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
 | dayNamesMin | ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"]
@@ -65,8 +67,10 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | am | am
 | pm | pm
 | today | Today
+| now | Now
 | weekHeader | Wk
 | firstDayOfWeek | 0
+| showMonthAfterYear | false
 | dateFormat | mm/dd/yy
 | weak | Weak
 | medium | Medium
@@ -98,7 +102,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | aria.moveToSource | Move to Source
 | aria.moveAllToTarget | Move All to Target
 | aria.moveAllToSource | Move All to Source
-| aria.pageLabel | {page}
+| aria.pageLabel | Page {page}
 | aria.firstPageLabel | First Page
 | aria.lastPageLabel | Last Page
 | aria.nextPageLabel | Next Page
@@ -114,7 +118,7 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | aria.hideFilterMenu | Hide Filter Menu
 | aria.filterOperator | Filter Operator
 | aria.filterConstraint | Filter Constraint
-| aria.editRow | Row Edit
+| aria.editRow | Edit Row
 | aria.saveEdit | Save Edit
 | aria.cancelEdit | Cancel Edit
 | aria.listView | List View
@@ -125,4 +129,4 @@ Prime UI libraries only provide English translations by default, if you"d like t
 | aria.zoomIn | Zoom In
 | aria.zoomOut | Zoom Out
 | aria.rotateRight | Rotate Right
-| aria.rotateLeft | Rotate Left"
+| aria.rotateLeft | Rotate Left

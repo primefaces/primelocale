@@ -1,5 +1,5 @@
 {
-    "de": {
+    "de-at": {
         "startsWith": "Beginnt mit",
         "contains": "Enthält",
         "notContains": "Enthält nicht",
@@ -30,11 +30,12 @@
         "cancel": "Abbrechen",
         "completed": "Abgeschlossen",
         "pending": "Ausstehend",
+        "fileSizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
         "dayNames": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
         "dayNamesShort": ["Son", "Mon", "Die", "Mit", "Don", "Fre", "Sam"],
         "dayNamesMin": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
-        "monthNames": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
-        "monthNamesShort": ["Jan", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"],
+        "monthNames": ["Jänner", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+        "monthNamesShort": ["Jän", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"],
         "chooseYear": "Jahr wählen",
         "chooseMonth": "Monat wählen",
         "chooseDate": "Datum wählen",
