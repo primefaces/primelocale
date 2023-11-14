@@ -57,7 +57,7 @@
        "weekHeader":"Hf",
        "firstDayOfWeek":0,
        "showMonthAfterYear": false,
-       "dateFormat":"dd/mm/yy",
+       "dateFormat":"dd.mm.yy",
        "weak":"Zayıf",
        "medium":"Orta",
        "strong":"Güçlü",
