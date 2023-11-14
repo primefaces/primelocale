@@ -61,7 +61,7 @@
        "weak":"Zayıf",
        "medium":"Orta",
        "strong":"Güçlü",
-       "passwordPrompt":"Şifre Giriniz",
+       "passwordPrompt":"Parola Giriniz",
        "emptyFilterMessage":"Kullanılabilir seçenek yok",
        "searchMessage": "{0} sonuç bulundu",
        "selectionMessage": "{0} öge seçildi",
