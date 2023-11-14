@@ -55,7 +55,7 @@
     "today": "Bugün",
     "now": "Şimdi",
     "weekHeader": "Hf",
-    "firstDayOfWeek": 0,
+    "firstDayOfWeek": 1,
     "showMonthAfterYear": false,
     "dateFormat": "dd.mm.yy",
     "weak": "Zayıf",
