@@ -28,6 +28,7 @@
     "choose": "Seç",
     "upload": "Yükle",
     "cancel": "Vazgeç",
+    "completed": "Tamamlandı",
     "pending": "Askıda",
     "fileSizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
     "dayNames": ["Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"],
