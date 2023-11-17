@@ -58,7 +58,7 @@
       "weekHeader": "Wk",
       "firstDayOfWeek": 1,
       "showMonthAfterYear": false,
-      "dateFormat": "yy/mm/dd",
+      "dateFormat": "dd/mm/yy",
       "weak": "Weak",
       "medium": "Medium",
       "strong": "Strong",
