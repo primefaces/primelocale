@@ -30,6 +30,7 @@
     "cancel": "Zrušit",
     "completed": "Dokončeno",
     "pending": "Čekající",
+    "fileSizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
     "dayNames": [
       "Neděle",
       "Pondělí",
@@ -87,6 +88,7 @@
     "am": "dopoledne",
     "pm": "odpoledne",
     "today": "Dnes",
+    "now": "Teď",
     "weekHeader": "Týd.",
     "firstDayOfWeek": 1,
     "showMonthAfterYear": false,
