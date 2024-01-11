@@ -15,7 +15,7 @@
       "dateIs": "Datum is",
       "dateIsNot": "Datum is niet",
       "dateBefore": "Datum is voor",
-      "dateAfter": "Date is na",
+      "dateAfter": "Datum is na",
       "custom": "Aangepast",
       "clear": "Wissen",
       "apply": "Toepassen",
@@ -68,7 +68,7 @@
       "selectionMessage": "{0} opties geselecteerd",
       "emptySelectionMessage": "Geen optie geselecteerd",
       "emptySearchMessage": "Geen resultaten gevonden",
-      "emptyMessage": "Geen beschikbare opties",
+      "emptyMessage": "Geen resultaten gevonden",
       "aria": {
          "trueLabel": "Waar",
          "falseLabel": "Onwaar",
