@@ -30,6 +30,7 @@
     "cancel": "Atcelt",
     "completed": "Pabeigts",
     "pending": "Gaida",
+    "fileSizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
     "dayNames": ["Svētdiena", "Pirmdiena", "Otrdiena", "Trešdiena", "Ceturtdiena", "Piektdiena", "Sestdiena"],
     "dayNamesShort": ["Sve", "Pir", "Otr", "Tre", "Cet", "Pie", "Ses"],
     "dayNamesMin": ["Sv", "Pi", "Ot", "Tr", "Ce", "Pk", "Se"],
