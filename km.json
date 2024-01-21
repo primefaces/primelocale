@@ -57,7 +57,7 @@
     "now": "ឥឡូវ",
     "weekHeader": "Wk",
     "firstDayOfWeek": 1,
-    "showMonthAfterYear": "មិនពិត",
+    "showMonthAfterYear":false,
     "dateFormat": "dd/mm/yy",
     "weak": "ខ្សោយ",
     "medium": "មធ្យម",
