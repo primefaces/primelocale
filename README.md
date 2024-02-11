@@ -8,7 +8,17 @@ The Locale API allows setting i18n and l7n options globally for the components. 
 - [PrimeFaces](https://primefaces.github.io/primefaces/14_0_0/#/core/localization?id=client-localization)
 
 Prime UI libraries only provide English translations by default, if you"d like to share translations, please contribute to this repo.
+### When copying the local file to use, it is advisable to remove the object key in the json. For example, instead of having 
+{
+"en":
+  {
+  ...
+  }
+}
 
+Use {
+...
+}
 ## Default Locale Options
 
 | Key |	Value
