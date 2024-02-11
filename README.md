@@ -9,6 +9,25 @@ The Locale API allows setting i18n and l7n options globally for the components. 
 
 Prime UI libraries only provide English translations by default, if you"d like to share translations, please contribute to this repo.
 
+### JavaScript Usage
+When copying the local file to use, it is advisable to remove the object key in the json. For example, instead of having 
+
+```js
+{
+"en":
+    {
+    ...
+    }
+}
+```
+
+Use:
+```js
+{
+...
+}
+```
+
 ## Default Locale Options
 
 | Key |	Value
