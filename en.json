@@ -1,5 +1,5 @@
 {
-   "en":{
+   "en": {
       "startsWith": "Starts with",
       "contains": "Contains",
       "notContains": "Not contains",
@@ -8,6 +8,10 @@
       "notEquals": "Not equals",
       "noFilter": "No Filter",
       "filter": "Filter",
+      "is": "Is",
+      "after": "After",
+      "before": "Before",
+      "isNot": "Is not",
       "lt": "Less than",
       "lte": "Less than or equal to",
       "gt": "Greater than",
