@@ -113,6 +113,8 @@
          "gridView": "Grid View",
          "slide": "Slide",
          "slideNumber": "{slideNumber}",
+         "passwordShow": "Show Password",
+         "passwordHide": "Hide Password",
          "zoomImage": "Zoom Image",
          "zoomIn": "Zoom In",
          "zoomOut": "Zoom Out",
