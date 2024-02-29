@@ -32,120 +32,122 @@ Use:
 
 | Key |	Value
 | --- | ---
-| startsWith | Starts with
+| accept | Yes
+| addRule | Add Rule
+| am | am
+| apply | Apply
+| cancel | Cancel
+| choose | Choose
+| chooseDate | Choose Date
+| chooseMonth | Choose Month
+| chooseYear | Choose Year
+| clear | Clear
+| completed | Completed
 | contains | Contains
-| notContains | Not contains
-| endsWith | Ends with
-| equals | Equals
-| notEquals | Not equals
-| noFilter | No Filter
-| filter | Filter // only available for PrimeReact
-| lt | Less than
-| lte | Less than or equal to
-| gt | Greater than
-| gte | Greater than or equal to
+| custom | Custom  // only available for PrimeReact
+| dateAfter | Date is after
+| dateBefore | Date is before
+| dateFormat | mm/dd/yy
 | dateIs | Date is
 | dateIsNot | Date is not
-| dateBefore | Date is before
-| dateAfter | Date is after
-| custom | Custom  // only available for PrimeReact
-| clear | Clear
-| apply | Apply
+| dayNames | ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+| dayNamesMin | ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"]
+| dayNamesShort | ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+| emptyFilterMessage | No results found // @deprecated Use "emptySearchMessage" option instead.
+| emptyMessage | No available options
+| emptySearchMessage | No results found
+| emptySelectionMessage | No selected item
+| endsWith | Ends with
+| equals | Equals
+| fileSizeTypes | ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
+| filter | Filter // only available for PrimeReact
+| firstDayOfWeek | 0
+| gt | Greater than
+| gte | Greater than or equal to
+| lt | Less than
+| lte | Less than or equal to
 | matchAll | Match All
 | matchAny | Match Any
-| addRule | Add Rule
-| removeRule | Remove Rule
-| accept | Yes
-| reject | No
-| choose | Choose
-| upload | Upload
-| cancel | Cancel
-| completed | Completed
-| pending | Pending
-| fileSizeTypes | ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
-| dayNames | ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
-| dayNamesShort | ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
-| dayNamesMin | ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"]
+| medium | Medium
 | monthNames | ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 | monthNamesShort | ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
-| chooseYear | Choose Year
-| chooseMonth | Choose Month
-| chooseDate | Choose Date
-| prevDecade | Previous Decade
 | nextDecade | Next Decade
-| prevYear | Previous Year
-| nextYear | Next Year
-| prevMonth | Previous Month
-| nextMonth | Next Month
-| prevHour | Previous Hour
 | nextHour | Next Hour
-| prevMinute | Previous Minute
 | nextMinute | Next Minute
-| prevSecond | Previous Second
+| nextMonth | Next Month
 | nextSecond | Next Second
-| am | am
-| pm | pm
-| today | Today
+| nextYear | Next Year
+| noFilter | No Filter
+| notContains | Not contains
+| notEquals | Not equals
 | now | Now
-| weekHeader | Wk
-| firstDayOfWeek | 0
-| showMonthAfterYear | false
-| dateFormat | mm/dd/yy
-| weak | Weak
-| medium | Medium
-| strong | Strong
 | passwordPrompt | Enter a password
-| emptyFilterMessage | No results found // @deprecated Use "emptySearchMessage" option instead.
+| pending | Pending
+| pm | pm
+| prevDecade | Previous Decade
+| prevHour | Previous Hour
+| prevMinute | Previous Minute
+| prevMonth | Previous Month
+| prevSecond | Previous Second
+| prevYear | Previous Year
+| reject | No
+| removeRule | Remove Rule
 | searchMessage | {0} results are available
 | selectionMessage | {0} items selected
-| emptySelectionMessage | No selected item
-| emptySearchMessage | No results found
-| emptyMessage | No available options
-| aria.trueLabel | True
-| aria.falseLabel | False
-| aria.nullLabel | Not Selected
-| aria.star | 1 star
-| aria.stars | {star} stars
-| aria.selectAll | All items selected
-| aria.unselectAll | All items unselected
+| showMonthAfterYear | false
+| startsWith | Starts with
+| strong | Strong
+| today | Today
+| upload | Upload
+| weak | Weak
+| weekHeader | Wk
+| aria.cancelEdit | Cancel Edit
 | aria.close | Close
-| aria.previous | Previous
-| aria.next | Next
-| aria.navigation | Navigation
-| aria.scrollTop | Scroll Top
-| aria.moveTop | Move Top
-| aria.moveUp | Move Up
-| aria.moveDown | Move Down
-| aria.moveBottom | Move Bottom
-| aria.moveToTarget | Move to Target
-| aria.moveToSource | Move to Source
-| aria.moveAllToTarget | Move All to Target
-| aria.moveAllToSource | Move All to Source
-| aria.pageLabel | Page {page}
+| aria.collapseRow | Row Collapsed
+| aria.editRow | Edit Row
+| aria.expandRow | Row Expanded
+| aria.falseLabel | False
+| aria.filterConstraint | Filter Constraint
+| aria.filterOperator | Filter Operator
 | aria.firstPageLabel | First Page
-| aria.lastPageLabel | Last Page
-| aria.nextPageLabel | Next Page
-| aria.previousPageLabel | Previous Page
-| aria.rowsPerPageLabel | Rows per page
+| aria.gridView | Grid View
+| aria.hideFilterMenu | Hide Filter Menu
 | aria.jumpToPageDropdownLabel | Jump to Page Dropdown
 | aria.jumpToPageInputLabel | Jump to Page Input
-| aria.selectRow | Row Selected
-| aria.unselectRow | Row Unselected
-| aria.expandRow | Row Expanded
-| aria.collapseRow | Row Collapsed
-| aria.showFilterMenu | Show Filter Menu
-| aria.hideFilterMenu | Hide Filter Menu
-| aria.filterOperator | Filter Operator
-| aria.filterConstraint | Filter Constraint
-| aria.editRow | Edit Row
-| aria.saveEdit | Save Edit
-| aria.cancelEdit | Cancel Edit
+| aria.lastPageLabel | Last Page
 | aria.listView | List View
-| aria.gridView | Grid View
+| aria.moveAllToSource | Move All to Source
+| aria.moveAllToTarget | Move All to Target
+| aria.moveBottom | Move Bottom
+| aria.moveDown | Move Down
+| aria.moveToSource | Move to Source
+| aria.moveToTarget | Move to Target
+| aria.moveTop | Move Top
+| aria.moveUp | Move Up
+| aria.navigation | Navigation
+| aria.next | Next
+| aria.nextPageLabel | Next Page
+| aria.nullLabel | Not Selected
+| aria.pageLabel | Page {page}
+| aria.passwordHide | Password Hide
+| aria.passwordShow | Password Show
+| aria.previous | Previous
+| aria.previousPageLabel | Previous Page
+| aria.rotateLeft | Rotate Left
+| aria.rotateRight | Rotate Right
+| aria.rowsPerPageLabel | Rows per page
+| aria.saveEdit | Save Edit
+| aria.scrollTop | Scroll Top
+| aria.selectAll | All items selected
+| aria.selectRow | Row Selected
+| aria.showFilterMenu | Show Filter Menu
 | aria.slide | Slide
 | aria.slideNumber | {slideNumber}
+| aria.star | 1 star
+| aria.stars | {star} stars
+| aria.trueLabel | True
+| aria.unselectAll | All items unselected
+| aria.unselectRow | Row Unselected
 | aria.zoomImage | Zoom Image
 | aria.zoomIn | Zoom In
 | aria.zoomOut | Zoom Out
-| aria.rotateRight | Rotate Right
-| aria.rotateLeft | Rotate Left
