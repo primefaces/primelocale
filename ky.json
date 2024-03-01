@@ -1,5 +1,5 @@
 {
-  "kg": {
+  "ky": {
     "accept": "Ооба",
     "addRule": "Эреже кошуу",
     "am": "түшкө чейин",
@@ -158,8 +158,8 @@
       "nextPageLabel": "Кийинки барак",
       "nullLabel": "Тандалган жок",
       "pageLabel": "{page} барак",
-      "passwordHide": "Hide Password",
-      "passwordShow": "Show Password",
+      "passwordHide": "Сырсөздү жашыруу",
+      "passwordShow": "Сыр сөздү көрсөтүү",
       "previous": "Мурунку",
       "previousPageLabel": "Мурунку барак",
       "rotateLeft": "Солго буруу",
