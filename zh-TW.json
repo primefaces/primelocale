@@ -157,6 +157,7 @@
       "next": "下一個",
       "nextPageLabel": "下一頁",
       "nullLabel": "未選擇",
+      "otpLabel": "請輸入一次性密碼字元 {0}",
       "pageLabel": "{page}",
       "passwordHide": "隱藏密碼",
       "passwordShow": "顯示密碼",

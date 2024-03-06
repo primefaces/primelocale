@@ -157,6 +157,7 @@
       "next": "Próximo",
       "nextPageLabel": "Próxima Página",
       "nullLabel": "Não Selecionado",
+      "otpLabel": "Insira o caractere da senha de uso único {0}",
       "pageLabel": "Página {page}",
       "passwordHide": "Esconder a senha",
       "passwordShow": "Mostrar senha",

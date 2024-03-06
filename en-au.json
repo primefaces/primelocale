@@ -157,6 +157,7 @@
       "next": "Next",
       "nextPageLabel": "Next Page",
       "nullLabel": "Not Selected",
+      "otpLabel": "Please enter one time password character {0}",
       "pageLabel": "Page {page}",
       "passwordHide": "Hide Password",
       "passwordShow": "Show Password",
