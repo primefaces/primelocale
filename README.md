@@ -103,8 +103,10 @@ Use:
 | weekHeader | Wk
 | aria.cancelEdit | Cancel Edit
 | aria.close | Close
+| aria.collapseLabel | Collapse
 | aria.collapseRow | Row Collapsed
 | aria.editRow | Edit Row
+| aria.expandLabel | Expand
 | aria.expandRow | Row Expanded
 | aria.falseLabel | False
 | aria.filterConstraint | Filter Constraint
@@ -139,6 +141,7 @@ Use:
 | aria.saveEdit | Save Edit
 | aria.scrollTop | Scroll Top
 | aria.selectAll | All items selected
+| aria.selectLabel | Select
 | aria.selectRow | Row Selected
 | aria.showFilterMenu | Show Filter Menu
 | aria.slide | Slide
@@ -147,6 +150,7 @@ Use:
 | aria.stars | {star} stars
 | aria.trueLabel | True
 | aria.unselectAll | All items unselected
+| aria.unselectLabel | Unselect
 | aria.unselectRow | Row Unselected
 | aria.zoomImage | Zoom Image
 | aria.zoomIn | Zoom In
