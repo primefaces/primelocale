@@ -132,10 +132,10 @@
     "aria": {
       "cancelEdit": "取消编辑",
       "close": "关闭",
-      "collapseLabel": "坍塌",
+      "collapseLabel": "折叠",
       "collapseRow": "折叠行",
       "editRow": "编辑行",
-      "expandLabel": "扩张",
+      "expandLabel": "展开",
       "expandRow": "展开行",
       "falseLabel": "否",
       "filterConstraint": "筛选条件",
@@ -179,10 +179,10 @@
       "star": "1颗星",
       "stars": "{star}颗星",
       "trueLabel": "是",
-      "unselectAll": "已取消选择所有项目",
+      "unselectAll": "全部取消选择",
       "unselectLabel": "取消选择",
       "unselectRow": "取消选择行",
-      "zoomImage": "放大图片",
+      "zoomImage": "查看大图",
       "zoomIn": "放大",
       "zoomOut": "缩小"
     }
