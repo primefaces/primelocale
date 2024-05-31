@@ -1,5 +1,9 @@
 {
   "ar": {
+    "after": "بعد",
+    "before": "قبل",
+    "is": "يكون",
+    "isNot": "ليس",
     "accept": "نعم",
     "addRule": "أضافة قاعدة",
     "am": "قبل الظهر",
@@ -10,9 +14,7 @@
     "chooseMonth": "إختر الشهر",
     "chooseYear": "إختر السنة",
     "clear": "إزاله",
-    "completed": "مكتمل",
     "contains": "يحتوى على",
-    "custom": "مخصص",
     "dateAfter": "التاريخ بعد",
     "dateBefore": "التاريخ قبل",
     "dateFormat": "شهر/يوم/سنة",
@@ -62,7 +64,6 @@
       "زيتا بايت",
       "يوتا بايت"
     ],
-    "filter": "تصفية",
     "firstDayOfWeek": 0,
     "gt": "أكبر من",
     "gte": "أكبر من او يساوي",
@@ -108,7 +109,6 @@
     "noFilter": "بدون تصفية",
     "notContains": "لا يحتوى على",
     "notEquals": "لا يساوي",
-    "now": "الأن",
     "passwordPrompt": "أدخل كلمة السر",
     "pending": "قيد الإنتظار",
     "pm": "بعد الظهر",
@@ -122,7 +122,6 @@
     "removeRule": "حذف قاعدة",
     "searchMessage": "{0} النتائج المتاحة",
     "selectionMessage": "{0} عناصر تم اختيارها",
-    "showMonthAfterYear": false,
     "startsWith": "يبدأ ب",
     "strong": "قوي",
     "today": "اليوم",
@@ -132,10 +131,8 @@
     "aria": {
       "cancelEdit": "الغاء التعديل",
       "close": "اغلاق",
-      "collapseLabel": "ينهار",
       "collapseRow": "اخفاء الصف",
       "editRow": "تعديل الصف",
-      "expandLabel": "يوسع",
       "expandRow": "اظهار الصف",
       "falseLabel": "خطأ",
       "filterConstraint": "تصفية القيود",
@@ -159,10 +156,7 @@
       "next": "التالي",
       "nextPageLabel": "الصفحة التالية",
       "nullLabel": "لا يوجد اختيار",
-      "otpLabel": "الرجاء إدخال حرف كلمة المرور لمرة واحدة {0}",
       "pageLabel": "صفحة {page}",
-      "passwordHide": "اخفاء كلمة المرور",
-      "passwordShow": "عرض كلمة المرور",
       "previous": "السابق",
       "previousPageLabel": "الصفحة السابقة",
       "rotateLeft": "تدوير بأتجاه اليسار",
@@ -171,7 +165,6 @@
       "saveEdit": "حفظ التعديلات",
       "scrollTop": "انتقل إلى الأعلى",
       "selectAll": "جميع العناصر مختارة",
-      "selectLabel": "يختار",
       "selectRow": "اختيار الصف",
       "showFilterMenu": "أظهار تصفية القائمة",
       "slide": "زلاقة",
@@ -180,11 +173,16 @@
       "stars": "{star} نجوم",
       "trueLabel": "صحيح",
       "unselectAll": "جميع العناصر غير مختارة",
-      "unselectLabel": "قم بإلغاء التحديد",
       "unselectRow": "عدم اختيار الصف",
       "zoomImage": "تكبير الصورة",
       "zoomIn": "تكبير",
-      "zoomOut": "تصغير"
+      "zoomOut": "تصغير",
+      "browseFiles": "تصفح الملفات",
+      "listLabel": "قائمة",
+      "maximizeLabel": "تكبير",
+      "prevPageLabel": "الصفحة السابقة",
+      "removeLabel": "حذف",
+      "selectColor": "اختيار اللون"
     }
   }
 }
