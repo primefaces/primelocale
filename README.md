@@ -135,6 +135,7 @@ Use:
 | aria.passwordShow | Password Show
 | aria.previous | Previous
 | aria.previousPageLabel | Previous Page
+| aria.removeLabel | Remove
 | aria.rotateLeft | Rotate Left
 | aria.rotateRight | Rotate Right
 | aria.rowsPerPageLabel | Rows per page

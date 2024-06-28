@@ -165,6 +165,7 @@
       "passwordShow": "Şifreyi göster",
       "previous": "Önceki",
       "previousPageLabel": "Önceki Sayfa",
+      "removeLabel": "Sil",
       "rotateLeft": "Sola Döndür",
       "rotateRight": "Sağa Döndür",
       "rowsPerPageLabel": "Sayfa başına satır",
@@ -184,8 +185,7 @@
       "unselectRow": "Satır Seçilmedi",
       "zoomImage": "Görüntüyü Yakınlaştır",
       "zoomIn": "Yakınlaştır",
-      "zoomOut": "Uzaklaştır",
-      "removeLabel": "Sil"
+      "zoomOut": "Uzaklaştır"
     }
   }
 }
