@@ -184,7 +184,8 @@
       "unselectRow": "Satır Seçilmedi",
       "zoomImage": "Görüntüyü Yakınlaştır",
       "zoomIn": "Yakınlaştır",
-      "zoomOut": "Uzaklaştır"
+      "zoomOut": "Uzaklaştır",
+      "removeLabel": "Sil"
     }
   }
 }

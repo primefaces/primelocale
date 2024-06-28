@@ -124,7 +124,9 @@
          "unselectRow": "Row Unselected",
          "zoomImage": "Zoom Image",
          "zoomIn": "Zoom In",
-         "zoomOut": "Zoom Out"
+         "zoomOut": "Zoom Out",
+         "removeLabel": "Remove"
+         
       }
    }
 }
