@@ -2,7 +2,7 @@
   "uz": {
     "accept": "Ha",
     "addRule": "Qoida qo'shish",
-    "am": "am",
+    "am": "TO",
     "apply": "Qo'llash",
     "cancel": "Bekor qilish",
     "choose": "Tanlash",
@@ -111,7 +111,7 @@
     "now": "Hozir",
     "passwordPrompt": "Parolni kiriting",
     "pending": "Kutilmoqda",
-    "pm": "pm",
+    "pm": "TK",
     "prevDecade": "Oldingi o'n yillik",
     "prevHour": "Oldingi soat",
     "prevMinute": "Oldingi daqiqa",
