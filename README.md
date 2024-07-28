@@ -1,3 +1,8 @@
+[![npm version](https://badge.fury.io/js/primelocale.svg)](https://badge.fury.io/js/primelocale)
+![NPM Downloads](https://img.shields.io/npm/dm/primelocale?color=purple)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![primelocale](https://snyk.io/advisor/npm-package/primelocale/badge.svg)](https://snyk.io/advisor/npm-package/primelocale)
+
 # Internationalization and Localization
 
 The Locale API allows setting i18n and l7n options globally for the components. You can import json files in this repo and use them in the locale API in the Prime UI libraries.
