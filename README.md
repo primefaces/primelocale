@@ -180,3 +180,35 @@ Use:
 | aria.zoomImage | Zoom Image
 | aria.zoomIn | Zoom In
 | aria.zoomOut | Zoom Out
+
+## Adding New Values
+
+To add a new value to the translation files, follow these steps:
+
+1. **Add to `en.json`**: First, add the new key-value pair to the `en.json` file. This file serves as the source for all translations.
+
+2. **Obtain Google Translate API Key**: You'll need a Google Translate API key to run the translation script. If you don't have one, follow Google's instructions to obtain an API key.
+
+3. **Update `script-translate.js`**: Once you have the API key, update the `script-translate.js` file. Locate the following line and replace `'REPLACEME'` with your actual API key:
+
+   ```js
+   const apiKey = 'REPLACEME'; // Replace with your API key
+   ```
+
+   **Note**: Be careful not to commit this change to version control to keep your API key private.
+
+4. **Run the Translation Script**: After adding your new key to `en.json` and updating the API key, run the translation script:
+
+   ```bash
+   node script-translate.js
+   ```
+
+   This script will:
+   - Read all language JSON files
+   - Identify the new key(s) added to `en.json`
+   - Translate the new value(s) to all other languages
+   - Update all language files with the new translations
+
+5. **Review Translations**: After running the script, it's a good practice to review the generated translations for accuracy.
+
+By following these steps, you ensure that new values are consistently added and translated across all language files in your project.
