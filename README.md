@@ -227,6 +227,4 @@ Then upload code to github, create tag & release.
 
 ## License
 
-Licensed under the [Mozilla Public License 2.0](https://opensource.org/license/mpl-2-0/) license.
-
-`SPDX-License-Identifier: Mozilla Public License 2.0`
+Licensed under the MIT License.
