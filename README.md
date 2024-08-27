@@ -212,3 +212,21 @@ To add a new value to the translation files, follow these steps:
 5. **Review Translations**: After running the script, it's a good practice to review the generated translations for accuracy.
 
 By following these steps, you ensure that new values are consistently added and translated across all language files in your project.
+
+## Publishing
+
+Adjust the version in the `package.json` if necessary, then
+
+```bash
+npm login
+# This will run npm run build automatically
+npm publish --access public
+```
+
+Then upload code to github, create tag & release.
+
+## License
+
+Licensed under the [Mozilla Public License 2.0](https://opensource.org/license/mpl-2-0/) license.
+
+`SPDX-License-Identifier: Mozilla Public License 2.0`
