@@ -31,7 +31,6 @@ pnpm add primelocale
 
 ### JavaScript Usage
 
-- [PrimeVue Sandbox](https://codesandbox.io/p/devbox/primevue-locale-loader-forked-mxkhh8?file=%2Fsrc%2FApp.vue) 
 - [PrimeReact Sandbox](https://stackblitz.com/edit/axcck4?file=src%2FApp.tsx)
 
 When copying the local file to use, it is advisable to remove the object key in the json. For example, instead of having 
