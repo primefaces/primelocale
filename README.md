@@ -33,7 +33,7 @@ pnpm add primelocale
 
 - [PrimeReact Sandbox](https://stackblitz.com/edit/axcck4?file=src%2FApp.tsx)
 
-When copying the local file to use, it is advisable to remove the object key in the json. For example, instead of having 
+When copying the local file to use, it is advisable to remove the object key in the json. For example, instead of having
 
 ```js
 {
@@ -157,7 +157,7 @@ Use:
 | aria.passwordHide | Password Hide
 | aria.passwordShow | Password Show
 | aria.previous | Previous
-| aria.previousPageLabel | Previous Page
+| aria.prevPageLabel | Previous Page
 | aria.removeLabel | Remove
 | aria.rotateLeft | Rotate Left
 | aria.rotateRight | Rotate Right
