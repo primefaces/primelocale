@@ -7,7 +7,7 @@
     "homepage": "https://github.com/primefaces/primelocale",
     "repository": {
         "type": "git",
-        "url": "https://github.com/primefaces/primelocale.git"
+        "url": "git+https://github.com/primefaces/primelocale.git"
     },
     "license": "MIT",
     "bugs": {
