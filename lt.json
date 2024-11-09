@@ -29,7 +29,7 @@
       "equals": "Lygu",
       "fileSizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
       "filter": "Filtras",
-      "firstDayOfWeek": 0,
+      "firstDayOfWeek": 1,
       "gt": "Daugiau nei",
       "gte": "Daugiau arba lygu",
       "lt": "Mažiau nei",
