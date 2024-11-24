@@ -15,7 +15,7 @@
     "custom": "مخصص",
     "dateAfter": "التاريخ بعد",
     "dateBefore": "التاريخ قبل",
-    "dateFormat": "شهر/يوم/سنة",
+    "dateFormat": "yy/mm/dd",
     "dateIs": "التاريخ هو",
     "dateIsNot": "التاريخ ليس",
     "dayNames": [
