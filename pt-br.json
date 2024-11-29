@@ -15,7 +15,7 @@
     "custom": "Personalizado",
     "dateAfter": "Data depois de",
     "dateBefore": "Data antes de",
-    "dateFormat": "dd/MM/yy",
+    "dateFormat": "dd/mm/yy",
     "dateIs": "Data é",
     "dateIsNot": "Data não é",
     "dayNames": [
