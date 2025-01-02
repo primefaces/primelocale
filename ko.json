@@ -15,7 +15,7 @@
     "custom": "커스텀",
     "dateAfter": "날짜 후",
     "dateBefore": "날짜 전",
-    "dateFormat": "mm/dd/yy",
+    "dateFormat": "yy-mm-dd",
     "dateIs": "날짜가 같은",
     "dateIsNot": "날짜가 같지 않은",
     "dayNames": [
