@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Niciun element selectat",
     "endsWith": "Se termină cu",
     "equals": "Este egal",
+    "fileChosenMessage": "{0} fișiere",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Luna următoare",
     "nextSecond": "Secunda anterioară",
     "nextYear": "Anul următor",
+    "noFileChosenMessage": "Niciun fișier ales",
     "noFilter": "Fără filtru",
     "notContains": "Nu conține",
     "notEquals": "Nu este egal",

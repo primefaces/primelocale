@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Nav neviena izvēlēta vienuma",
     "endsWith": "Beidzas ar",
     "equals": "Vienāds ar",
+    "fileChosenMessage": "{0} faili",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Nākamais mēnesis",
     "nextSecond": "Nākamā sekunde",
     "nextYear": "Nākamais gads",
+    "noFileChosenMessage": "Nav izvēlēts neviens fails",
     "noFilter": "Nefiltrēt",
     "notContains": "Nesatur",
     "notEquals": "Nav vienāds ar",

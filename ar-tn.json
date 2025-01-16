@@ -51,6 +51,7 @@
     "emptySelectionMessage": "لم يتم اختيار اي عنصر",
     "endsWith": "ينتهي ب",
     "equals": "يساوي",
+    "fileChosenMessage": "{0} ملفات",
     "fileSizeTypes": [
       "بايت",
       "كيلو بايت",
@@ -105,6 +106,7 @@
     "nextMonth": "الشهر التالي",
     "nextSecond": "الثانية التالية",
     "nextYear": "السنة التالية",
+    "noFileChosenMessage": "لم يتم اختيار أي ملف",
     "noFilter": "بدون تصفية",
     "notContains": "لا يحتوى على",
     "notEquals": "لا يساوي",

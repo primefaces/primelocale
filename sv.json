@@ -52,6 +52,7 @@
     "emptySelectionMessage": "Inget valt objekt",
     "endsWith": "Slutar med",
     "equals": "Lika med",
+    "fileChosenMessage": "{0} filer",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -106,6 +107,7 @@
     "nextMonth": "Nästa månad",
     "nextSecond": "Nästa sekund",
     "nextYear": "Nästa år",
+    "noFileChosenMessage": "Ingen fil har valts",
     "noFilter": "Inget filter",
     "notContains": "Innehåller inte",
     "notEquals": "Inte lika med",

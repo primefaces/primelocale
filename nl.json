@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Geen optie geselecteerd",
     "endsWith": "Eindigt met",
     "equals": "Is gelijk aan",
+    "fileChosenMessage": "{0} bestanden",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Volgende maand",
     "nextSecond": "Volgende seconde",
     "nextYear": "Volgend jaar",
+    "noFileChosenMessage": "Geen bestand gekozen",
     "noFilter": "Geen filter",
     "notContains": "Bevat niet",
     "notEquals": "Is niet gelijk aan",

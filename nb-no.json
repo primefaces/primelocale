@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Ingen valgte oppføringer",
     "endsWith": "Slutter på",
     "equals": "Er lik",
+    "fileChosenMessage": "{0} filer",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Neste måned",
     "nextSecond": "Neste sekund",
     "nextYear": "Neste år",
+    "noFileChosenMessage": "Ingen fil er valgt",
     "noFilter": "Ikke filtrert",
     "notContains": "Inneholder ikke",
     "notEquals": "Er ikke lik",

@@ -52,6 +52,7 @@
     "emptySelectionMessage": "មិនមានធាតុដែលបានជ្រើសរើស",
     "endsWith": "បញ្ចប់ដោយ",
     "equals": "ស្មើ",
+    "fileChosenMessage": "ឯកសារ {0}",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -106,6 +107,7 @@
     "nextMonth": "ខែបន្ទាប់",
     "nextSecond": "ទីពីរបន្ទាប់",
     "nextYear": "ឆ្នាំក្រោយ",
+    "noFileChosenMessage": "គ្មានឯកសារត្រូវបានជ្រើសរើសទេ។",
     "noFilter": "គ្មានតម្រង",
     "notContains": "មិនមាន",
     "notEquals": "មិន​ស្មើ",

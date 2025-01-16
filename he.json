@@ -51,6 +51,7 @@
     "emptySelectionMessage": "לא נבחרו פריטים",
     "endsWith": "מסתיים ב",
     "equals": "שווה",
+    "fileChosenMessage": "{0} קבצים",
     "fileSizeTypes": [
       "בתים",
       "ק\"ב",
@@ -105,6 +106,7 @@
     "nextMonth": "חודש הבא",
     "nextSecond": "שנייה הבאה",
     "nextYear": "שנה הבאה",
+    "noFileChosenMessage": "לא נבחר קובץ",
     "noFilter": "ללא מסנן",
     "notContains": "אינו מכיל",
     "notEquals": "אינו שווה",

@@ -51,6 +51,7 @@
     "emptySelectionMessage": "هیچ بڕی دیاریکراوێک نییە",
     "endsWith": "دەستان",
     "equals": "بەرابرەوە",
+    "fileChosenMessage": "{0} pel",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "مانگی دواتر",
     "nextSecond": "چرکەی دواتر",
     "nextYear": "ساڵی دواتر",
+    "noFileChosenMessage": "Ti pel nehat hilbijartin",
     "noFilter": "بێ ڕێگرتن",
     "notContains": "تێپەڕوودەر نییە",
     "notEquals": "بەرابرنییە",

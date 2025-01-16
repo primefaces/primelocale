@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Κανένα επιλεγμένο στοιχείο",
     "endsWith": "Τελειώνει με",
     "equals": "Ισο με",
+    "fileChosenMessage": "{0} αρχεία",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Τον επόμενο μήνα",
     "nextSecond": "Επόμενο δευτερόλεπτο",
     "nextYear": "Του χρόνου",
+    "noFileChosenMessage": "Δεν έχει επιλεγεί αρχείο",
     "noFilter": "Χωρίς φίλτρο",
     "notContains": "Δεν Περιέχει",
     "notEquals": "Διαφορετικό από",

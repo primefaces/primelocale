@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Nessun elemento selezionato",
     "endsWith": "Finisce con",
     "equals": "Equivale",
+    "fileChosenMessage": "{0} file",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Mese successivo",
     "nextSecond": "Secondo successivo",
     "nextYear": "Anno successivo",
+    "noFileChosenMessage": "Nessun file scelto",
     "noFilter": "Senza Filtro",
     "notContains": "Non contiene",
     "notEquals": "Non uguale",

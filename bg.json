@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Няма избран елемент",
     "endsWith": "Завършва на",
     "equals": "Равно е на",
+    "fileChosenMessage": "{0} файла",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Следващият месец",
     "nextSecond": "Следваща секунда",
     "nextYear": "Следващата година",
+    "noFileChosenMessage": "Няма избран файл",
     "noFilter": "Без филтър",
     "notContains": "Не съдържа",
     "notEquals": "Не е равно на",

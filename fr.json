@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Aucun élément sélectionné",
     "endsWith": "Se termine par",
     "equals": "Égal à",
+    "fileChosenMessage": "{0} fichiers",
     "fileSizeTypes": [
       "o",
       "Ko",
@@ -105,6 +106,7 @@
     "nextMonth": "Mois suivant",
     "nextSecond": "Seconde suivante",
     "nextYear": "Année suivante",
+    "noFileChosenMessage": "Aucun fichier choisi",
     "noFilter": "Aucun filtre",
     "notContains": "Ne contient pas",
     "notEquals": "Différent de",

@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Ei tuloksia",
     "endsWith": "Teksti loppuu",
     "equals": "Yhtä kuin",
+    "fileChosenMessage": "{0} tiedostoa",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Seur. kuukausi",
     "nextSecond": "Seur. sekunti",
     "nextYear": "Seur. vuosi",
+    "noFileChosenMessage": "Tiedostoa ei ole valittu",
     "noFilter": "Ei suodatinta",
     "notContains": "Ei sisällä",
     "notEquals": "Eri kuin",

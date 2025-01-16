@@ -51,6 +51,7 @@
     "emptySelectionMessage": "موردی انتخاب نشده",
     "endsWith": "پایان با",
     "equals": "برابر",
+    "fileChosenMessage": "{0} فایل",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "ماه بعد",
     "nextSecond": "ثانیه بعد",
     "nextYear": "سال بعد",
+    "noFileChosenMessage": "هیچ فایلی انتخاب نشد",
     "noFilter": "بدون فیلتر",
     "notContains": "حاوی نیست",
     "notEquals": "نا برابر",

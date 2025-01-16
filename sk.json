@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Žiadna vybraná položka",
     "endsWith": "Končí na",
     "equals": "Rovná sa",
+    "fileChosenMessage": "Počet súborov: {0}",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Nasledujúci mesiac",
     "nextSecond": "Nasledujúca sekunda",
     "nextYear": "Nasledujúci rok",
+    "noFileChosenMessage": "Nie je vybraný žiadny súbor",
     "noFilter": "Bez filtra",
     "notContains": "Neobsahuje",
     "notEquals": "Nerovná sa",

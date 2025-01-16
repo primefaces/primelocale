@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Không có mục nào được chọn",
     "endsWith": "Kết thúc bằng",
     "equals": "Bằng",
+    "fileChosenMessage": "{0} tập tin",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Tháng tiếp theo",
     "nextSecond": "Giây tiếp theo",
     "nextYear": "Năm sau",
+    "noFileChosenMessage": "Không có tập tin nào được chọn",
     "noFilter": "Không có bộ lọc",
     "notContains": "Không chứa",
     "notEquals": "Không bằng",

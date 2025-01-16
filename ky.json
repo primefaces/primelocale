@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Тандалган элемент жок",
     "endsWith": "Бүтөт",
     "equals": "Барабар",
+    "fileChosenMessage": "{0} файл",
     "fileSizeTypes": [
       "Б",
       "КБ",
@@ -105,6 +106,7 @@
     "nextMonth": "Кийинки ай",
     "nextSecond": "Кийинки секунд",
     "nextYear": "Кийинки жыл",
+    "noFileChosenMessage": "Эч файл тандалган жок",
     "noFilter": "Чыпкалоо жок",
     "notContains": "Камтыбайт",
     "notEquals": "Барабар эмес",

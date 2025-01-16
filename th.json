@@ -51,6 +51,7 @@
     "emptySelectionMessage": "ไม่มีการเลือกรายการ",
     "endsWith": "สิ้นสุดด้วย",
     "equals": "เท่ากับ",
+    "fileChosenMessage": "{0} ไฟล์",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "เดือนถัดไป",
     "nextSecond": "วินาทีถัดไป",
     "nextYear": "ปีถัดไป",
+    "noFileChosenMessage": "ไม่ได้เลือกไฟล์",
     "noFilter": "ไม่มีตัวกรอง",
     "notContains": "ไม่มี",
     "notEquals": "ไม่เท่ากับ",

@@ -51,6 +51,7 @@
     "emptySelectionMessage": "選択なし",
     "endsWith": "終わる",
     "equals": "等しい",
+    "fileChosenMessage": "{0} ファイル",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "翌月",
     "nextSecond": "次の秒",
     "nextYear": "翌年",
+    "noFileChosenMessage": "ファイルが選択されていません",
     "noFilter": "フィルターなし",
     "notContains": "含まない",
     "notEquals": "等しくない",
