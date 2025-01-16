@@ -129,6 +129,7 @@
     "upload": "Enviar",
     "weak": "Fraco",
     "weekHeader": "Sem",
+    "noFileChosenMessage": "Nenhum arquivo escolhido",
     "aria": {
       "cancelEdit": "Cancelar Edição",
       "close": "Fechar",
