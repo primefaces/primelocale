@@ -1,6 +1,6 @@
 {
     "name": "primelocale",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "private": false,
     "author": "PrimeTek Informatics",
     "description": "PrimeLocale provides i18n and l7n options globally for the components in PrimeUI libraries.",
