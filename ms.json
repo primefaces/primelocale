@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Tiada item yang dipilih",
     "endsWith": "Berakhir dengan",
     "equals": "Sama",
+    "fileChosenMessage": "{0} fail",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Bulan Berikutnya",
     "nextSecond": "Saat Berikutnya",
     "nextYear": "Tahun Berikutnya",
+    "noFileChosenMessage": "Tiada fail dipilih",
     "noFilter": "Tiada Tapisan",
     "notContains": "Tidak mengandungi",
     "notEquals": "Tidak sama",

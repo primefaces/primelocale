@@ -51,6 +51,7 @@
     "emptySelectionMessage": "هیچ دانەیەک هەڵنەبژێردراوە",
     "endsWith": "کۆتایی بێت بە",
     "equals": "یەکسان بێت بە",
+    "fileChosenMessage": "{0} فایلەکان",
     "fileSizeTypes": [
       "ب",
       "کب",
@@ -105,6 +106,7 @@
     "nextMonth": "مانگی داهاتوو",
     "nextSecond": "چرکەی داهاتوو",
     "nextYear": "ساڵی داهاتوو",
+    "noFileChosenMessage": "هیچ فایلێک هەڵنەبژێردراوە",
     "noFilter": "بێ پاڵاوتن",
     "notContains": "لەخۆی نەگرتێت",
     "notEquals": "یەکسان نەبێت بە",

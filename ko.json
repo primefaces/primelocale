@@ -51,6 +51,7 @@
     "emptySelectionMessage": "선택되지 않았습니다",
     "endsWith": "으로 끝나는",
     "equals": "같은",
+    "fileChosenMessage": "{0}개의 파일",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "다음달",
     "nextSecond": "다음 초",
     "nextYear": "내년",
+    "noFileChosenMessage": "선택된 파일이 없습니다",
     "noFilter": "필터하지 않은",
     "notContains": "포함하지 않는",
     "notEquals": "같지 않는",

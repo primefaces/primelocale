@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Немає вибраного елемента",
     "endsWith": "Закінчується",
     "equals": "Дорівнює",
+    "fileChosenMessage": "{0} файлів",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Наступний місяць",
     "nextSecond": "Наступна секунда",
     "nextYear": "Наступний рік",
+    "noFileChosenMessage": "Файл не вибрано",
     "noFilter": "Немає фільтра",
     "notContains": "Не містить",
     "notEquals": "Не дорівнює",

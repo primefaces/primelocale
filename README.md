@@ -82,6 +82,7 @@ Use:
 | emptySelectionMessage | No selected item
 | endsWith | Ends with
 | equals | Equals
+| fileChosenMessage | {0} files
 | fileSizeTypes | ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
 | filter | Filter // only available for PrimeReact
 | firstDayOfWeek | 0
@@ -100,6 +101,7 @@ Use:
 | nextMonth | Next Month
 | nextSecond | Next Second
 | nextYear | Next Year
+| noFileChosenMessage | No file chosen
 | noFilter | No Filter
 | notContains | Not contains
 | notEquals | Not equals

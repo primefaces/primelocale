@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Brak wybranego elementu",
     "endsWith": "Kończy się na",
     "equals": "Równe",
+    "fileChosenMessage": "{0} plików",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Następny miesiąc",
     "nextSecond": "Następna sekunda",
     "nextYear": "Następny rok",
+    "noFileChosenMessage": "Nie wybrano pliku",
     "noFilter": "Wyczyść filtr",
     "notContains": "Nie zawiera",
     "notEquals": "Nierówne",

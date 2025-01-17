@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Tidak ada item dipilih",
     "endsWith": "Berakhir dengan",
     "equals": "Sama",
+    "fileChosenMessage": "{0} berkas",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Bulan Selanjutnya",
     "nextSecond": "Detik Selanjutnya",
     "nextYear": "Tahun Selanjutnya",
+    "noFileChosenMessage": "Tidak ada file yang dipilih",
     "noFilter": "Tanpa Filter",
     "notContains": "Tidak mengandung",
     "notEquals": "Tidak sama",

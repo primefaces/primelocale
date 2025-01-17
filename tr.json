@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Öge seçilmedi",
     "endsWith": "Bitiş",
     "equals": "Eşittir",
+    "fileChosenMessage": "{0} dosya",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Gelecek Ay",
     "nextSecond": "Gelecek Saniye",
     "nextYear": "Gelecek Yıl",
+    "noFileChosenMessage": "Hiçbir dosya seçilmedi",
     "noFilter": "Filtresiz",
     "notContains": "İçinde Barındırmaz",
     "notEquals": "Eşit Değildir",

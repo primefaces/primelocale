@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Tanlangan element yo'q",
     "endsWith": "Bilan tugaydi",
     "equals": "Teng",
+    "fileChosenMessage": "{0} ta fayl",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Keyingi oy",
     "nextSecond": "Keyingi soniya",
     "nextYear": "Keyingi yil",
+    "noFileChosenMessage": "Hech qanday fayl tanlanmagan",
     "noFilter": "Filtr yo'q",
     "notContains": "O'z ichiga olmaydi",
     "notEquals": "Teng emas",

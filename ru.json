@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Нет выбранного элемента",
     "endsWith": "Заканчивается",
     "equals": "Равно",
+    "fileChosenMessage": "{0} файлов",
     "fileSizeTypes": [
       "Б",
       "Кб",
@@ -105,6 +106,7 @@
     "nextMonth": "Следующий месяц",
     "nextSecond": "Следующая секунда",
     "nextYear": "Следующий год",
+    "noFileChosenMessage": "Файл не выбран",
     "noFilter": "Нет фильтра",
     "notContains": "Не содержит",
     "notEquals": "Не равно",

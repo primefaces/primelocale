@@ -51,6 +51,7 @@
     "emptySelectionMessage": "未选择任何项",
     "endsWith": "以...结尾",
     "equals": "等于",
+    "fileChosenMessage": "{0} 个文件",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "下个月",
     "nextSecond": "下一秒",
     "nextYear": "下一年",
+    "noFileChosenMessage": "未选择文件",
     "noFilter": "无筛选",
     "notContains": "不包含",
     "notEquals": "不等于",

@@ -51,6 +51,7 @@
     "emptySelectionMessage": "कोई चयनित आइटम नहीं",
     "endsWith": "समाप्त होता है",
     "equals": "बराबर है",
+    "fileChosenMessage": "{0} फ़ाइलें",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "आगामी महीना",
     "nextSecond": "आगामी सेकंड",
     "nextYear": "आगामी वर्ष",
+    "noFileChosenMessage": "कोई फ़ाइल चुना नही",
     "noFilter": "कोई फिल्टर नहीं",
     "notContains": "Not contains",
     "notEquals": "बराबर नहीं है",

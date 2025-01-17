@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Таңдалынған элементтер жоқ",
     "endsWith": "Аяқталады",
     "equals": "Тең",
+    "fileChosenMessage": "{0} файл",
     "fileSizeTypes": [
       "Б",
       "Кб",
@@ -105,6 +106,7 @@
     "nextMonth": "Келесі ай",
     "nextSecond": "Келесі секунд",
     "nextYear": "Келесі жыл",
+    "noFileChosenMessage": "Ешбір файл таңдалмады",
     "noFilter": "Фильтрсіз",
     "notContains": "Қамтымайды",
     "notEquals": "Тең емес",

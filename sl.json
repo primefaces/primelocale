@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Ni izbora",
     "endsWith": "Se konča z",
     "equals": "Je enak",
+    "fileChosenMessage": "{0} datotek",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Naslednji mesec",
     "nextSecond": "Naslednja sekunda",
     "nextYear": "Naslednje leto",
+    "noFileChosenMessage": "Nobena datoteka ni izbrana",
     "noFilter": "Brez filtra",
     "notContains": "Ne vsebuje",
     "notEquals": "Ni enak",

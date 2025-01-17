@@ -51,6 +51,7 @@
     "emptySelectionMessage": "Nincs kijelölt elem",
     "endsWith": "Ezzel végződik",
     "equals": "Egyenlő",
+    "fileChosenMessage": "{0} fájl",
     "fileSizeTypes": [
       "B",
       "KB",
@@ -105,6 +106,7 @@
     "nextMonth": "Következő hónap",
     "nextSecond": "Következő másodperc",
     "nextYear": "Következő év",
+    "noFileChosenMessage": "Nincs kiválasztva fájl",
     "noFilter": "Nincs szűrő",
     "notContains": "Nem tartalmazza",
     "notEquals": "Nem egyenlő",
