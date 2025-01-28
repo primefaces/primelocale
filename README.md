@@ -142,6 +142,7 @@ Use:
 | aria.jumpToPageDropdownLabel | Jump to Page Dropdown
 | aria.jumpToPageInputLabel | Jump to Page Input
 | aria.lastPageLabel | Last Page
+| aria.listLabel | Option List
 | aria.listView | List View
 | aria.moveAllToSource | Move All to Source
 | aria.moveAllToTarget | Move All to Target
