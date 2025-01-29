@@ -70,8 +70,8 @@
     "gte": "Maior que ou igual a",
     "lt": "Menor que",
     "lte": "Menor que ou igual a",
-    "matchAll": "Match All",
-    "matchAny": "Match Any",
+    "matchAll": "Todas as condições",
+    "matchAny": "Qualquer condição",
     "medium": "Médio",
     "monthNames": [
       "Janeiro",
