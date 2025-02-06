@@ -160,7 +160,7 @@ Use:
 | aria.passwordHide | Password Hide
 | aria.passwordShow | Password Show
 | aria.previous | Previous
-| aria.previousPageLabel | Previous Page
+| aria.prevPageLabel | Previous Page
 | aria.removeLabel | Remove
 | aria.rotateLeft | Rotate Left
 | aria.rotateRight | Rotate Right
