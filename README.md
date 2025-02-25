@@ -29,7 +29,7 @@ yarn add primelocale
 pnpm add primelocale
 ```
 
-### JavaScript Usage
+### JavaScript/TypeScript Usage
 
 - [PrimeReact Sandbox](https://stackblitz.com/edit/axcck4-nuukjdrw?file=src%2FApp.tsx)
 
