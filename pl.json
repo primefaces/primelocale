@@ -120,18 +120,6 @@
     "prevMonth": "Poprzedni miesiąc",
     "prevSecond": "Poprzednia sekunda",
     "prevYear": "Poprzedni rok",
-    "quarterNames": [
-      "I Kwartał",
-      "II Kwartał",
-      "III Kwartał",
-      "IV Kwartał"
-    ],
-    "quarterNamesShort": [
-      "I Kw",
-      "II Kw",
-      "III Kw",
-      "IV Kw"
-    ],
     "reject": "Nie",
     "removeRule": "Usuń regułę",
     "searchMessage": "Dostępnych jest {0} wyników",

@@ -2,6 +2,7 @@
     "name": "primelocale",
     "version": "1.6.0",
     "private": false,
+    "type": "module",
     "author": "PrimeTek Informatics",
     "description": "PrimeLocale provides i18n and l7n options globally for the components in PrimeUI libraries.",
     "homepage": "https://github.com/primefaces/primelocale",
@@ -21,11 +22,32 @@
         "i18n",
         "l7n"
     ],
+    "scripts": {
+        "prepack": "node script-genimports.js && tsc",
+        "build": "node script-genimports.js",
+        "verify": "tsc"
+    },
     "files": [
-        "**/*.json"
+        "**/*.json",
+        "js/*.js",
+        "js/*.d.ts"
     ],
+    "exports": {
+        "./*.json": "./*.json",
+        ".": {
+            "module": "./js/all.js",
+            "types": "./js/all.d.ts"
+        },
+        "./js/*.js": {
+            "module": "./js/*.js",
+            "types": "./js/*.d.ts"
+        }
+    },
     "engines": {
-        "node": ">=12.0.0",
-        "npm": ">=6.0.0"
+        "node": ">=18.0.0",
+        "npm": ">=8.6.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.7.3"
     }
 }
