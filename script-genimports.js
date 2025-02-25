@@ -277,11 +277,6 @@ function checkForMissingTranslations(allKeys, messagesByLanguageCode) {
   let anyMissing = false;
   for (const [languageCode, json] of messagesByLanguageCode.entries()) {
     for (const key of allKeys) {
-      // TODO This key exists only for <pl>, can we remove that? If so remove this code.
-      if (key === "quarterNames" || key === "quarterNamesShort") {
-        continue;
-      }
-
       if (!(key in json)) {
         console.error(`Language <${languageCode}> is missing translation for key ${key}`);
         anyMissing = true;
