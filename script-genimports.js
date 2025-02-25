@@ -185,7 +185,7 @@ async function writeAllTypeDeclarationFile(allLanguages) {
   allContent.push("export interface AllLocales {");
   for (const language of allLanguages) {
     allContent.push("  /**");
-    allContent.push(`   * The localized messages for the language ${language}.`);
+    allContent.push(`   * The localized messages for the language \`${language}\`.`);
     allContent.push("   */");
     allContent.push(`  ${language}: Locale;`);
   }
@@ -346,7 +346,7 @@ function createJsonType(json, indent = 0) {
     const indentString = "  ".repeat(indent);
     const entries = properties.flatMap(p => [
       `${indentString}  /**`,
-      `${indentString}   * The localized value for the message key <${p.name}>.`,
+      `${indentString}   * The localized value for the message key \`${p.name}\`.`,
       `${indentString}   */`,
       `${indentString}  ${p.name}: ${p.type},`,
     ]).join("\n");
