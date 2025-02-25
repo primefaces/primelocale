@@ -31,25 +31,23 @@ pnpm add primelocale
 
 ### JavaScript Usage
 
-- [PrimeReact Sandbox](https://stackblitz.com/edit/axcck4?file=src%2FApp.tsx)
+- [PrimeReact Sandbox](https://stackblitz.com/edit/axcck4-nuukjdrw?file=src%2FApp.tsx)
 
-When copying the local file to use, it is advisable to remove the object key in the json. For example, instead of having 
+primelocale now ships with JavaScript files that export the locale as well.
 
 ```js
-{
-"en":
-    {
-    ...
-    }
-}
+import { all } from "primelocale";
+import { de } from "primelocale/js/de.js";
+import { en } from "primelocale/js/en.js";
+import { ja } from "primelocale/js/ja.js";
+
+all.ky.aria.collapseLabel;
+de.aria.collapseLabel;
+en.aria.collapseLabel;
+ja.aria.collapseLabel;
 ```
 
-Use:
-```js
-{
-...
-}
-```
+If you are using TypeScript, all files have appropriate typings.
 
 ## Default Locale Options
 
