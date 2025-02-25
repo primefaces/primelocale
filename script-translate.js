@@ -1,4 +1,6 @@
-const fs = require('fs');
+// @ts-check
+
+const fs = require('node:fs');
 let promises = [];
 
 /**
