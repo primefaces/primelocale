@@ -2,7 +2,7 @@
   "is": {
     "accept": "Já",
     "addRule": "Bæta við reglu",
-    "am": "AM",
+    "am": "f.h",
     "apply": "Sækja um",
     "cancel": "Hætta við",
     "choose": "Veldu",
@@ -87,7 +87,7 @@
     "now": "Núna",
     "passwordPrompt": "Sláðu inn lykilorð",
     "pending": "Í bið",
-    "pm": "PM",
+    "pm": "e.h",
     "prevDecade": "Síðasta áratugi",
     "prevHour": "Síðasta klukkutíma",
     "prevMinute": "Síðustu mínútu",
