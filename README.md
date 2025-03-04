@@ -31,7 +31,7 @@ pnpm add primelocale
 
 ### JavaScript/TypeScript Usage
 
-- [PrimeReact Sandbox](https://stackblitz.com/edit/axcck4-nuukjdrw?file=src%2FApp.tsx)
+- [PrimeReact Sandbox](https://stackblitz.com/edit/axcck4-ztfv6rtm?file=src%2FApp.tsx)
 
 primelocale now ships with JavaScript files that export the locale as well.
 
