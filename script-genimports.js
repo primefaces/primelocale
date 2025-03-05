@@ -8,6 +8,7 @@ const currentDir = path.dirname(fileURLToPath(import.meta.url));
 
 const jsonDir = currentDir;
 const jsDir = path.resolve(currentDir, "js");
+const cjsDir = path.resolve(currentDir, "cjs");
 
 // Files to exclude that are not locales
 const specialFiles = new Set(["package.json", "package-lock.json", "tsconfig.json"]);
@@ -16,9 +17,11 @@ const specialFiles = new Set(["package.json", "package-lock.json", "tsconfig.jso
 try {
   // Remove the output directory if existing
   await fs.rm(jsDir, { force: true, recursive: true});
+  await fs.rm(cjsDir, { force: true, recursive: true});
 
   // Create the output directory if missing
   await fs.mkdir(jsDir, { recursive: true });
+  await fs.mkdir(cjsDir, { recursive: true });
 
   // Get the content of each JSON file, grouped by language code
   const messagesByLanguageCode = await readAllJsonFiles();
@@ -32,7 +35,7 @@ try {
   // Write the locale.d.ts file with the base type
   await writeBaseTypeDeclarationFile(messagesByLanguageCode);
 
-  // Write one en.js and e.d.ts file for each language
+  // Write one en.js + en.d.ts file for each language
   for (const [languageCode, json] of messagesByLanguageCode) {
     await writeJavaScriptFile(languageCode, json);
     await writeTypeDeclarationFile(languageCode);
@@ -43,6 +46,7 @@ try {
   const allLocales = [...messagesByLanguageCode.keys()];
   allLocales.sort((x, y) => x < y ? -1 : x > y ? 1 : 0);
   await writeAllJavaScriptFile(allLocales);
+  await writeAllJavaScriptFileCommonJs(allLocales);
   await writeAllTypeDeclarationFile(allLocales);
 
 } catch (err) {
@@ -65,17 +69,21 @@ async function writeBaseTypeDeclarationFile(messagesByLanguageCode) {
 
   // Use a d.ts file to store the common type
   const baseTypesFile = path.join(jsDir, "locale.d.ts");
+  const baseTypesFileCjs = path.join(cjsDir, "locale.d.ts");
 
   // Create a single export statement for the locale type
   const baseTypesContent = [
-    `/**`,
-    ` * Type to which all locales adhere, contains the keys present for each locale.`,
-    ` */`,
+    "/**",
+    " * Type to which all locales adhere, contains the keys present for each locale.",
+    " */",
     `export interface Locale ${localeType}`
   ].join("\n");
 
   console.log(`Writing <${baseTypesFile}>`);
   await fs.writeFile(baseTypesFile, baseTypesContent, "utf-8");
+
+  console.log(`Writing <${baseTypesFileCjs}>`);
+  await fs.writeFile(baseTypesFileCjs, baseTypesContent, "utf-8");
 }
 
 /**
@@ -88,23 +96,41 @@ async function writeBaseTypeDeclarationFile(messagesByLanguageCode) {
 async function writeJavaScriptFile(languageCode, json) {
   // Path to the generated JS file with the exports
   const jsFile = path.join(jsDir, `${languageCode}.js`);
+  const cjsFile = path.join(cjsDir, `${languageCode}.js`);
 
   // Create the content of the JavaScript file that exports the messages
   const jsContent = [
-    `// @ts-check`,
-    ``,
+    "// @ts-check",
+    "",
     `/** @import { Locale } from "./locale.js"; */`,
-    ``,
-    `/**`,
+    "",
+    "/**",
     ` * Contains the localized messages for the locale ${languageCode}.`,
-    ` * @type {Locale}`,
-    ` */`,
+    " * @type {Locale}",
+    " */",
     `export const ${languageCode} = ${JSON.stringify(json, null, 2)};`
   ].join("\n");
 
-  // Write the file to the disk
+    // Creates a legacy CommonJS version of the file
+    const cjsContent = [
+      "// @ts-check",
+      "",
+      `/** @import { Locale } from "./locale.js"; */`,
+      "",
+      "/**",
+      ` * Contains the localized messages for the locale ${languageCode}.`,
+      " * @type {Locale}",
+      " */",
+      `module.exports.${languageCode} = ${JSON.stringify(json, null, 2)};`
+    ].join("\n");
+  
+  // Write the ESM file to the disk
   console.log(`Writing <${jsFile}>`)
   await fs.writeFile(jsFile, jsContent, "utf-8");
+
+  // Write the CommonJS file to the disk
+  console.log(`Writing <${cjsFile}>`)
+  await fs.writeFile(cjsFile, cjsContent, "utf-8");
 }
 
 /**
@@ -115,21 +141,25 @@ async function writeJavaScriptFile(languageCode, json) {
  */
 async function writeTypeDeclarationFile(languageCode) {
   // Path to the generated .d.ts file with the types
-  const dTsFile = path.join(jsDir, `${languageCode}.d.ts`);
+  const dTsFileEsm = path.join(jsDir, `${languageCode}.d.ts`);
+  const dTsFileCjs = path.join(cjsDir, `${languageCode}.d.ts`);
 
   // Create the content of the type declarations file
   const dTsContent = [
     `import type { Locale } from "./locale.js";`,
-    ``,
-    `/**`,
+    "",
+    "/**",
     ` * Contains the localized messages for the locale ${languageCode}.`,
-    ` */`,
-    `export const ${languageCode}: Locale;`
+    " */",
+    `export declare const ${languageCode}: Locale;`
   ].join("\n");
 
   // Write the file to the disk
-  console.log(`Writing <${dTsFile}>`)
-  await fs.writeFile(dTsFile, dTsContent, "utf-8");
+  console.log(`Writing <${dTsFileEsm}>`)
+  await fs.writeFile(dTsFileEsm, dTsContent, "utf-8");
+
+  console.log(`Writing <${dTsFileCjs}>`)
+  await fs.writeFile(dTsFileCjs, dTsContent, "utf-8");
 }
 
 /**
@@ -169,6 +199,42 @@ async function writeAllJavaScriptFile(allLanguages) {
 }
 
 /**
+ * Writes a JavaScript file (CommonJS) that exports the translations for all locales.
+ * @param {string[]} allLanguages All language codes. 
+ * @returns {Promise<void>} A promise that resolves when the file was written.
+ */
+async function writeAllJavaScriptFileCommonJs(allLanguages) {
+  /** @type {string[]} */
+  const allContent = [];
+
+  allContent.push("// @ts-check");
+  allContent.push("");
+
+  for (const language of allLanguages) {
+    allContent.push(`const ${language} = require("./${language}.js").${language};`);
+  }
+
+  allContent.push("");
+  allContent.push("/**");
+  allContent.push(" * An object with all messages for all languages.");
+  allContent.push(" * The key is the language code, the value the messages.");
+  allContent.push(" */");
+  allContent.push("module.exports.all = {");
+
+  for (const locale of allLanguages) {
+    allContent.push(`  ${locale},`);
+  }
+
+  allContent.push("};");
+
+  const allFile = path.join(cjsDir, "all.js");
+
+  // Write the file to the disk
+  console.log(`Writing <${allFile}>`)
+  await fs.writeFile(allFile, allContent.join("\n"), "utf-8");
+}
+
+/**
  * Writes a type declaration file that contains the type for the object with
  * all messages for all languages.
  * @param {string[]} allLanguages All language codes. 
@@ -178,7 +244,7 @@ async function writeAllTypeDeclarationFile(allLanguages) {
   /** @type {string[]} */
   const allContent = [];
 
-  allContent.push(`import { Locale } from "./locale.js";`);
+  allContent.push(`import type { Locale } from "./locale.js";`);
 
   allContent.push("");
 
@@ -197,13 +263,17 @@ async function writeAllTypeDeclarationFile(allLanguages) {
   allContent.push(" * An object with all messages for all languages.");
   allContent.push(" * The key is the language code, the value the messages.");
   allContent.push(" */");
-  allContent.push("export const all: AllLocales;");
+  allContent.push("export declare const all: AllLocales;");
 
   const allFile = path.join(jsDir, "all.d.ts");
+  const allFileCjs = path.join(cjsDir, "all.d.ts");
 
   // Write the file to the disk
   console.log(`Writing <${allFile}>`)
   await fs.writeFile(allFile, allContent.join("\n"), "utf-8");
+
+  console.log(`Writing <${allFileCjs}>`)
+  await fs.writeFile(allFileCjs, allContent.join("\n"), "utf-8");
 }
 
 /**

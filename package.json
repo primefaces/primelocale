@@ -1,6 +1,6 @@
 {
     "name": "primelocale",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "private": false,
     "type": "module",
     "author": "PrimeTek Informatics",
@@ -30,16 +30,29 @@
     "files": [
         "**/*.json",
         "js/*.js",
-        "js/*.d.ts"
+        "js/*.d.ts",
+        "cjs/*.js",
+        "cjs/*.d.ts"
     ],
+    "main": "./cjs/all.js",
+    "module": "./js/all.js",
+    "types": "./js/all.d.ts",
+    "sideEffects": false,
     "exports": {
         "./*.json": "./*.json",
         ".": {
             "module": "./js/all.js",
+            "require": "./cjs/all.js",
             "types": "./js/all.d.ts"
         },
         "./js/*.js": {
             "module": "./js/*.js",
+            "require": "./cjs/*.js",
+            "types": "./js/*.d.ts"
+        },
+        "./cjs/*.js": {
+            "module": "./js/*.js",
+            "require": "./cjs/*.js",
             "types": "./js/*.d.ts"
         }
     },
