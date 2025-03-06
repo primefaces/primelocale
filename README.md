@@ -29,7 +29,7 @@ yarn add primelocale
 pnpm add primelocale
 ```
 
-### JavaScript/TypeScript Usage
+### JavaScript / TypeScript Usage
 
 - [PrimeReact Sandbox](https://stackblitz.com/edit/axcck4-ztfv6rtm?file=src%2FApp.tsx)
 
@@ -47,7 +47,12 @@ en.aria.collapseLabel;
 ja.aria.collapseLabel;
 ```
 
-If you are using TypeScript, all files have appropriate typings.
+- If you are using TypeScript, all files have appropriate typings.
+- We ship both an ESM and a CJS version. If you are still using CJS
+  and your environment does not support the `exports` field in the `package.json`,
+  you may need to import the individual language files directly from
+  `primelocale/cjs/de.js` instead.
+
 
 ## Default Locale Options
 
