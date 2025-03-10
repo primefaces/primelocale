@@ -1,5 +1,5 @@
 {
-  "en-gb": {
+  "en-AU": {
     "accept": "Yes",
     "addRule": "Add Rule",
     "am": "am",
@@ -64,7 +64,7 @@
       "YB"
     ],
     "filter": "Filter",
-    "firstDayOfWeek": 1,
+    "firstDayOfWeek": 0,
     "gt": "Greater than",
     "gte": "Greater than or equal to",
     "lt": "Less than",
