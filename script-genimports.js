@@ -186,7 +186,11 @@ async function writeAllJavaScriptFile(allLanguages) {
   allContent.push("export const all = {");
 
   for (const locale of allLanguages) {
+    const localeWithDash = locale.replace(/_/g, "-");
     allContent.push(`  ${locale},`);
+    if (locale !== localeWithDash) {
+      allContent.push(`  "${localeWithDash}": ${locale},`);
+    }
   }
 
   allContent.push("};");
@@ -222,7 +226,11 @@ async function writeAllJavaScriptFileCommonJs(allLanguages) {
   allContent.push("module.exports.all = {");
 
   for (const locale of allLanguages) {
+    const localeWithDash = locale.replace(/_/g, "-");
     allContent.push(`  ${locale},`);
+    if (locale !== localeWithDash) {
+      allContent.push(`  "${localeWithDash}": ${locale},`);
+    }
   }
 
   allContent.push("};");
@@ -250,10 +258,17 @@ async function writeAllTypeDeclarationFile(allLanguages) {
 
   allContent.push("export interface AllLocales {");
   for (const language of allLanguages) {
+    const languageWithDash = language.replace(/_/g, "-");
     allContent.push("  /**");
     allContent.push(`   * The localized messages for the language \`${language}\`.`);
     allContent.push("   */");
     allContent.push(`  ${language}: Locale;`);
+    if (languageWithDash !== language) {
+      allContent.push("  /**");
+      allContent.push(`   * The localized messages for the language \`${language}\`.`);
+      allContent.push("   */");
+      allContent.push(`  "${languageWithDash}": Locale;`);
+    }
   }
   allContent.push("}");
 
