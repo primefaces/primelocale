@@ -15,7 +15,7 @@
     "custom": "Vlastné",
     "dateAfter": "Dátum je po",
     "dateBefore": "Dátum je pred",
-    "dateFormat": "dd.mm.rrrr",
+    "dateFormat": "dd.mm.yy",
     "dateIs": "Dátum je",
     "dateIsNot": "Dátum nie je",
     "dayNames": [
