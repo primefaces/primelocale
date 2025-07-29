@@ -42,16 +42,19 @@
         "./*.json": "./*.json",
         ".": {
             "module": "./js/all.js",
+            "import": "./js/all.js",
             "require": "./cjs/all.js",
             "types": "./js/all.d.ts"
         },
         "./js/*.js": {
             "module": "./js/*.js",
+            "import": "./js/*.js",
             "require": "./cjs/*.js",
             "types": "./js/*.d.ts"
         },
         "./cjs/*.js": {
             "module": "./js/*.js",
+            "import": "./js/*.js",
             "require": "./cjs/*.js",
             "types": "./js/*.d.ts"
         }
