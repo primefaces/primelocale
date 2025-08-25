@@ -15,7 +15,7 @@
     "custom": "Khas",
     "dateAfter": "Tarikh selepas",
     "dateBefore": "Tarikh sebelum",
-    "dateFormat": "dd/mm/yyyy",
+    "dateFormat": "dd/mm/yy",
     "dateIs": "Tarikh adalah",
     "dateIsNot": "Tarikh bukan",
     "dayNames": [

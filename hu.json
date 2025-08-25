@@ -15,7 +15,7 @@
     "custom": "Egyedi",
     "dateAfter": "Dátum későbbi",
     "dateBefore": "Dátum korábbi",
-    "dateFormat": "yy.mm.dd",
+    "dateFormat": "yy. mm. dd.",
     "dateIs": "Dátum egyenlő",
     "dateIsNot": "Dátum nem egyenlő",
     "dayNames": [
