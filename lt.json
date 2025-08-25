@@ -15,7 +15,7 @@
     "custom": "Tinkintas",
     "dateAfter": "Data vėlesnė nei",
     "dateBefore": "Data ankstesnė nei",
-    "dateFormat": "yyyy/mm/dd",
+    "dateFormat": "yy-mm-dd",
     "dateIs": "Data yra",
     "dateIsNot": "Data nėra",
     "dayNames": [
