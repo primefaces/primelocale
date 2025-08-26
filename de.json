@@ -69,8 +69,8 @@
     "gte": "Größer oder gleich",
     "lt": "Kleiner als",
     "lte": "Kleiner oder gleich",
-    "matchAll": "Passt auf alle",
-    "matchAny": "Passt auf einige",
+    "matchAll": "Trifft auf alle zu",
+    "matchAny": "Trifft auf einige zu",
     "medium": "Mittel",
     "monthNames": [
       "Januar",
