@@ -158,7 +158,7 @@ function copyMissingKeysRecursive(sourceFile, destinationDir) {
             const destinationFile = `${destinationDir}/${file}`;
 
             // Process only JSON files that are not the source file or package.json
-            if (file.endsWith('.json') && !destinationFile.endsWith(sourceFile) && !file.endsWith('package.json')) {
+            if (file.endsWith('.json') && !destinationFile.endsWith(sourceFile) && !file.endsWith('package.json') && !file.endsWith('package-lock.json') !file.endsWith('tsconfig.json')) {
                 let destinationData = readJSONFile(destinationFile) || {};
 
                 if (!destinationData) {
