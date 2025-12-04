@@ -184,7 +184,7 @@
       "slide": "Слајд",
       "slideNumber": "Слајд {slideNumber}",
       "star": "1 Звезда",
-      "stars": "Звезда: {start}",
+      "stars": "Звезда: {star}",
       "trueLabel": "Тачно",
       "unselectAll": "Поништен је одабир свих ставки",
       "unselectLabel": "Поништи одабир",
