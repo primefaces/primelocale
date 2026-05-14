@@ -134,10 +134,10 @@
     "aria": {
       "cancelEdit": "キャンセル",
       "close": "閉じる",
-      "collapseLabel": "崩壊",
+      "collapseLabel": "折りたたむ",
       "collapseRow": "折りたたみ行",
       "editRow": "行編集",
-      "expandLabel": "拡大する",
+      "expandLabel": "展開する",
       "expandRow": "展開済行",
       "falseLabel": "False",
       "filterConstraint": "フィルター成約",
