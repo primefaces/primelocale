@@ -23,6 +23,10 @@ try {
   await fs.mkdir(jsDir, { recursive: true });
   await fs.mkdir(cjsDir, { recursive: true });
 
+  // The root package.json sets "type": "module", so mark the cjs directory
+  // as CommonJS, otherwise Node.js would parse cjs/*.js as ES modules.
+  await writeCommonJsPackageJson();
+
   // Get the content of each JSON file, grouped by language code
   const messagesByLanguageCode = await readAllJsonFiles();
 
@@ -51,6 +55,17 @@ try {
 
 } catch (err) {
   console.error("Error generating script file", err);
+}
+
+/**
+ * Writes a package.json into the cjs directory that sets the module type to
+ * CommonJS, so that Node.js loads cjs/*.js via require().
+ * @returns {Promise<void>} A promise that resolves when the file was written.
+ */
+async function writeCommonJsPackageJson() {
+  const cjsPackageJson = path.join(cjsDir, "package.json");
+  console.log(`Writing <${cjsPackageJson}>`);
+  await fs.writeFile(cjsPackageJson, JSON.stringify({ type: "commonjs" }, null, 2) + "\n", "utf-8");
 }
 
 /**
